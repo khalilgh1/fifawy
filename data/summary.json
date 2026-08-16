@@ -1,0 +1,22 @@
+{
+  "club_teams": 701,
+  "national_teams": 29,
+  "total_teams": 730,
+  "total_competitions": 53,
+  "confirmed_star_ratings": 388,
+  "missing_or_uncertain_information": 701,
+  "logos_found": 55,
+  "logos_redistribution_unverified": 55,
+  "sources_used": [
+    "https://sofifa.com/teams",
+    "https://fifauteam.com/fc-26-squad-rating-guide/",
+    "https://commons.wikimedia.org/w/api.php",
+    "https://en.wikipedia.org/w/api.php"
+  ],
+  "limitations": [
+    "The stars field is an integer representation of a verified FC 26 half-star band derived from the SoFIFA Overall value and the FC 26 Squad Rating guide: 5.0=83–99, 4.5=79–82, 4.0=75–78, 3.5=71–74, 3.0=69–70, 2.5=67–68, 2.0=65–66, 1.5=63–64, 1.0=60–62, 0.5=2–59, 0.0=0–1. The exact half-star value is retained in data_sources.json.",
+    "The SoFIFA roster snapshot is dated Jul 23, 2026 and is a reputable third-party source rather than an EA first-party endpoint.",
+    "Logo URLs are candidate assets from Wikimedia Commons or Wikipedia page images. Their individual license and the legal right to redistribute club or federation crests in a mobile app remain unverified; legal review is required before shipping.",
+    "Some generic, alternate-name, women, and unlicensed teams did not achieve a sufficiently reliable rating match and remain flagged."
+  ]
+}

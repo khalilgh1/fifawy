@@ -1,0 +1,320 @@
+[
+  {
+    "id": "1a_pro_league",
+    "name": "1A Pro League",
+    "type": "league",
+    "country": "Belgium"
+  },
+  {
+    "id": "2_bundesliga",
+    "name": "2\\. Bundesliga",
+    "type": "league",
+    "country": "Germany"
+  },
+  {
+    "id": "3_liga",
+    "name": "3\\. Liga",
+    "type": "league",
+    "country": "Germany"
+  },
+  {
+    "id": "3f_superliga",
+    "name": "3F Superliga",
+    "type": "league",
+    "country": "Denmark"
+  },
+  {
+    "id": "admiral_bundesliga",
+    "name": "Admiral Bundesliga",
+    "type": "league",
+    "country": "Austria"
+  },
+  {
+    "id": "allsvenskan",
+    "name": "Allsvenskan",
+    "type": "league",
+    "country": "Sweden"
+  },
+  {
+    "id": "arkema_d1",
+    "name": "Arkema D1",
+    "type": "league",
+    "country": "France"
+  },
+  {
+    "id": "botola_pro",
+    "name": "Botola Pro",
+    "type": "league",
+    "country": "Morocco"
+  },
+  {
+    "id": "bundesliga",
+    "name": "Bundesliga",
+    "type": "league",
+    "country": "Germany"
+  },
+  {
+    "id": "champions_league",
+    "name": "UEFA Champions League",
+    "type": "international_club",
+    "country": null
+  },
+  {
+    "id": "chinese_super_league",
+    "name": "Chinese Super League",
+    "type": "league",
+    "country": "China"
+  },
+  {
+    "id": "cinch_premiership",
+    "name": "Cinch Premiership",
+    "type": "league",
+    "country": "Scotland"
+  },
+  {
+    "id": "conference_league",
+    "name": "UEFA Europa Conference League",
+    "type": "international_club",
+    "country": null
+  },
+  {
+    "id": "copa_america",
+    "name": "Copa América",
+    "type": "international_national",
+    "country": null
+  },
+  {
+    "id": "credit_suisse_super_league",
+    "name": "Credit Suisse Super League",
+    "type": "league",
+    "country": "Switzerland"
+  },
+  {
+    "id": "efl_championship",
+    "name": "EFL Championship",
+    "type": "league",
+    "country": "England"
+  },
+  {
+    "id": "efl_league_one",
+    "name": "EFL League One",
+    "type": "league",
+    "country": "England"
+  },
+  {
+    "id": "efl_league_two",
+    "name": "EFL League Two",
+    "type": "league",
+    "country": "England"
+  },
+  {
+    "id": "eliteserien",
+    "name": "Eliteserien",
+    "type": "league",
+    "country": "Norway"
+  },
+  {
+    "id": "eredivisie",
+    "name": "Eredivisie",
+    "type": "league",
+    "country": "Netherlands"
+  },
+  {
+    "id": "europa_league",
+    "name": "UEFA Europa League",
+    "type": "international_club",
+    "country": null
+  },
+  {
+    "id": "fc",
+    "name": "Fc 25 Vs Fc",
+    "type": "league",
+    "country": null
+  },
+  {
+    "id": "fifa_womens_world_cup",
+    "name": "Fifa Womens World Cup",
+    "type": "international_national",
+    "country": null
+  },
+  {
+    "id": "fifa_world_cup",
+    "name": "Fifa World Cup",
+    "type": "international_national",
+    "country": null
+  },
+  {
+    "id": "frauen_bundesliga",
+    "name": "Frauen-Bundesliga",
+    "type": "league",
+    "country": "Germany"
+  },
+  {
+    "id": "hero_isl",
+    "name": "Hero Isl",
+    "type": "league",
+    "country": "India"
+  },
+  {
+    "id": "isuzu_ute_a_league",
+    "name": "Isuzu Ute A-League",
+    "type": "league",
+    "country": "Australia"
+  },
+  {
+    "id": "k_league",
+    "name": "K-League 2",
+    "type": "league",
+    "country": null
+  },
+  {
+    "id": "laliga_ea_sports",
+    "name": "Laliga Ea Sports",
+    "type": "league",
+    "country": "Spain"
+  },
+  {
+    "id": "laliga_hypermotion",
+    "name": "Laliga Hypermotion",
+    "type": "league",
+    "country": "Spain"
+  },
+  {
+    "id": "libertadores",
+    "name": "CONMEBOL Libertadores",
+    "type": "international_club",
+    "country": null
+  },
+  {
+    "id": "liga_f",
+    "name": "Liga F",
+    "type": "league",
+    "country": "Spain"
+  },
+  {
+    "id": "liga_mx",
+    "name": "Liga Mx",
+    "type": "league",
+    "country": "Mexico"
+  },
+  {
+    "id": "liga_portugal",
+    "name": "Liga Portugal",
+    "type": "league",
+    "country": "Portugal"
+  },
+  {
+    "id": "liga_profesional_de_futbol",
+    "name": "Liga Profesional De Fútbol",
+    "type": "league",
+    "country": "Argentina"
+  },
+  {
+    "id": "ligue",
+    "name": "Ligue 1",
+    "type": "league",
+    "country": null
+  },
+  {
+    "id": "major_league_soccer",
+    "name": "Major League Soccer",
+    "type": "league",
+    "country": "United States"
+  },
+  {
+    "id": "mbs_pro_league",
+    "name": "Mbs Pro League",
+    "type": "league",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": "non_licensed_leagues_female",
+    "name": "Non Licensed Leagues (Female)",
+    "type": "other",
+    "country": null
+  },
+  {
+    "id": "non_licensed_leagues_male",
+    "name": "Non Licensed Leagues (Male)",
+    "type": "other",
+    "country": null
+  },
+  {
+    "id": "nwsl",
+    "name": "Nwsl",
+    "type": "league",
+    "country": "United States"
+  },
+  {
+    "id": "pko_ekstraklasa",
+    "name": "Pko Ekstraklasa",
+    "type": "league",
+    "country": "Poland"
+  },
+  {
+    "id": "premier_league",
+    "name": "Premier League",
+    "type": "league",
+    "country": "England"
+  },
+  {
+    "id": "recopa",
+    "name": "CONMEBOL Recopa",
+    "type": "super_cup",
+    "country": null
+  },
+  {
+    "id": "serie_a",
+    "name": "Serie A",
+    "type": "league",
+    "country": "Italy"
+  },
+  {
+    "id": "serie_bkt",
+    "name": "Serie Bkt",
+    "type": "league",
+    "country": "Italy"
+  },
+  {
+    "id": "sse_airtricity_pd",
+    "name": "Sse Airtricity Pd",
+    "type": "league",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": "sudamericana",
+    "name": "CONMEBOL Sudamericana",
+    "type": "international_club",
+    "country": null
+  },
+  {
+    "id": "super_lig",
+    "name": "Süper Lig",
+    "type": "league",
+    "country": "Türkiye"
+  },
+  {
+    "id": "superliga",
+    "name": "Superliga",
+    "type": "league",
+    "country": "Romania"
+  },
+  {
+    "id": "uefa_euro_championship",
+    "name": "Uefa Euro Championship",
+    "type": "international_national",
+    "country": null
+  },
+  {
+    "id": "uefa_super_cup",
+    "name": "UEFA Super Cup",
+    "type": "super_cup",
+    "country": null
+  },
+  {
+    "id": "uefa_womens_euro",
+    "name": "Uefa Womens Euro",
+    "type": "international_national",
+    "country": null
+  }
+]

@@ -1,0 +1,8117 @@
+[
+  {
+    "id": "1899_hoffenheim",
+    "name": "1899 Hoffenheim",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 1,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TSG_1899_Hoffenheim_Logo_before_2007.png"
+  },
+  {
+    "id": "1_fc_heidenheim",
+    "name": "1. FC Heidenheim",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/330px-1._FC_Heidenheim_1846.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "1_fc_kaiserslautern",
+    "name": "1. FC Kaiserslautern",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": null,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_1_FC_Kaiserslautern.svg"
+  },
+  {
+    "id": "1_fc_koln",
+    "name": "1. FC Köln",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 4,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Viktoria_K%C3%B6ln_1904_Logo.svg"
+  },
+  {
+    "id": "1_fc_magdeburg",
+    "name": "1. FC Magdeburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/330px-1._FC_Magdeburg.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "1_fc_nurnberg",
+    "name": "1. FC Nürnberg ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 3,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_N%C3%BCrnberg_Logo.png"
+  },
+  {
+    "id": "1_fc_saarbrucken",
+    "name": "1. FC Saarbrücken",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "1_fc_schweinfurt",
+    "name": "1. FC Schweinfurt ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "aarhus",
+    "name": "Aarhus",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceres_Park_logo_2015.png"
+  },
+  {
+    "id": "aberdeen",
+    "name": "Aberdeen",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aberdeen_Roughnecks_AFC_-_New_Logo_%282015%29.png"
+  },
+  {
+    "id": "ac_monza_brianza_calcio",
+    "name": "AC Monza (‘Brianza Calcio’)",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "accrington_stanley",
+    "name": "Accrington Stanley",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "adelaide_united",
+    "name": "Adelaide United",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "adidas_all_star",
+    "name": "adidas All-Star",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "aek_athens",
+    "name": "AEK Athens",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "afc_richmond",
+    "name": "AFC Richmond",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "afc_wimbledon",
+    "name": "AFC Wimbledon",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "aik",
+    "name": "AIK",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ajax",
+    "name": "Ajax",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "non_licensed_leagues_female"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "al_ahli",
+    "name": "Al Ahli",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "al_ahly",
+    "name": "Al Ahly",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "al_ain_fc",
+    "name": "Al Ain FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "al_fateh",
+    "name": "Al-Fateh",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_fayha",
+    "name": "Al Fayha",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_hazem",
+    "name": "Al Hazem ▲",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_hilal",
+    "name": "Al Hilal",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "al_ittihad",
+    "name": "Al Ittihad",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "al_khaleej",
+    "name": "Al Khaleej",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "al_kholood",
+    "name": "Al Kholood",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_najma",
+    "name": "Al Najma ▲",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_nassr",
+    "name": "Al Nassr",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "al_okhdood",
+    "name": "Al Okhdood",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_qadsiah",
+    "name": "Al Qadsiah",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "al_riyadh_sc",
+    "name": "Al Riyadh SC",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "al_shabab",
+    "name": "Al Shabab",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "al_taawoun",
+    "name": "Al Taawoun",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "alanyaspor",
+    "name": "Alanyaspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "alaves",
+    "name": "Alavés",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "albacete",
+    "name": "Albacete",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Puerta_de_Hierros_de_Albacete.jpg/330px-Puerta_de_Hierros_de_Albacete.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "aldosivi",
+    "name": "Aldosivi ▲",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "alemannia_aachen",
+    "name": "Alemannia Aachen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alemannia_Aachen_2010.svg/330px-Alemannia_Aachen_2010.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alhama",
+    "name": "Alhama ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "almeria",
+    "name": "Almería",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alcazaba_1%2C_Almeria%2C_Spain.jpg/330px-Alcazaba_1%2C_Almeria%2C_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alverca",
+    "name": "Alverca ▲",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "america",
+    "name": "America",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "amiens_sc",
+    "name": "Amiens SC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "andorra",
+    "name": "Andorra ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "angel_city",
+    "name": "Angel City",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "angers_sco",
+    "name": "Angers SCO",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Angers_Sporting_Club_de_l%27Ouest_logo.svg/330px-Angers_Sporting_Club_de_l%27Ouest_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "ansan_greeners",
+    "name": "Ansan Greeners",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "antalyaspor",
+    "name": "Antalyaspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "apoel_fc",
+    "name": "APOEL FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/330px-APOEL_%28logo_with_stars%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "type": "national",
+    "country": "Argentina",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "argentinos_jrs",
+    "name": "Argentinos Jrs",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "arges_pitesti",
+    "name": "Argeș Pitești ▲",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "arka_gdynia",
+    "name": "Arka Gdynia ▲",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "arminia_bielefeld",
+    "name": "Arminia Bielefeld",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "arouca",
+    "name": "Arouca",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_of_the_entrance_to_the_Arsenal_by_Canaletto%2C_1732.jpg/330px-View_of_the_entrance_to_the_Arsenal_by_Canaletto%2C_1732.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "as_monaco",
+    "name": "AS Monaco",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "as_saint_etienne",
+    "name": "AS Saint-Étienne",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/St_Etienne_Stade_Geoffroy_Guichard.jpg/330px-St_Etienne_Stade_Geoffroy_Guichard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "aston_villa",
+    "name": "Aston Villa",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "atalanta_bergamo_calcio",
+    "name": "Atalanta (‘Bergamo Calcio’)",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "athletic_club_de_bilbao",
+    "name": "Athletic Club de Bilbao",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "atk_mohun_bagan",
+    "name": "ATK Mohun Bagan",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "atlanta_united",
+    "name": "Atlanta United",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mercator_-_Atlas_-_1595.png/330px-Mercator_-_Atlas_-_1595.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "atletico_madrid",
+    "name": "Atlético Madrid",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "atletico_nacional",
+    "name": "Atlético Nacional",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Atletico_Nacional_Logo.svg/330px-Atletico_Nacional_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "atletico_san_luis",
+    "name": "Atlético San Luis",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "atletico_tucuman",
+    "name": "Atlético Tucumán",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Atletico_tucuman_nuevo2.svg/330px-Atletico_tucuman_nuevo2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "auckland_fc",
+    "name": "Auckland FC",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Auckland_FC_logo.svg/330px-Auckland_FC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "austin_fc",
+    "name": "Austin FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "auxerre",
+    "name": "Auxerre",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Auxerre_-_Yonne_-_1.jpg/330px-Auxerre_-_Yonne_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "avellino",
+    "name": "Avellino ▲",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "avs",
+    "name": "AVS",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "az",
+    "name": "AZ",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "banfield",
+    "name": "Banfield",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg/330px-Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "barnet",
+    "name": "Barnet ▲",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "barnsley",
+    "name": "Barnsley",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Barnsley_town_centre_on_a_sunny_market_day.jpg/330px-Barnsley_town_centre_on_a_sunny_market_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "barracas_central",
+    "name": "Barracas Central",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/330px-Barracas_central_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "barrow",
+    "name": "Barrow",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bay_fc",
+    "name": "Bay FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bay_FC_logo.svg/330px-Bay_FC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bayer_leverkusen",
+    "name": "Bayer Leverkusen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "bayern_munchen",
+    "name": "Bayern München",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "beauleroix_fc",
+    "name": "Beauleroix FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "beijing_sinobo_guoan",
+    "name": "Beijing Sinobo Guoan",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "belgrano",
+    "name": "Belgrano",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bengaluru",
+    "name": "Bengaluru",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/330px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "besiktas_istanbul",
+    "name": "Beşiktaş Istanbul",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "birmingham_city",
+    "name": "Birmingham City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "bk_hacken",
+    "name": "BK Häcken",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "blackburn_rovers",
+    "name": "Blackburn Rovers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "blackpool",
+    "name": "Blackpool",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Blackpool_tower_and_illuminations.jpg/330px-Blackpool_tower_and_illuminations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "blau_wei",
+    "name": "Blau-Weiß",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "boca_juniors",
+    "name": "Boca Juniors",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/330px-Boca_Juniors_logo18.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bod_glimt",
+    "name": "Bodø/Glimt",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bohemians",
+    "name": "Bohemians",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bologna",
+    "name": "Bologna",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/330px-Torri_di_Bologna%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bolton_wanderers",
+    "name": "Bolton Wanderers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "borussia_dortmund",
+    "name": "Borussia Dortmund",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/330px-Borussia_Dortmund_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "borussia_monchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/330px-Borussia_M%C3%B6nchengladbach_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "botosani",
+    "name": "Botoșani",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Casco_antiguo_Bt.jpg/330px-Casco_antiguo_Bt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bournemouth",
+    "name": "Bournemouth",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bournemouth_-_Seafront_-_geograph.org.uk_-_838983.jpg/330px-Bournemouth_-_Seafront_-_geograph.org.uk_-_838983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bradford_city",
+    "name": "Bradford City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "brentford",
+    "name": "Brentford",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brentford_from_Kew_Bridge_-_geograph.org.uk_-_3432375.jpg/330px-Brentford_from_Kew_Bridge_-_geograph.org.uk_-_3432375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "brighton_hove_albion",
+    "name": "Brighton & Hove Albion",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "brisbane_roar",
+    "name": "Brisbane Roar",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "bristol_city",
+    "name": "Bristol City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "bristol_rovers",
+    "name": "Bristol Rovers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "brndby_if",
+    "name": "Brøndby IF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bromley",
+    "name": "Bromley",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bromley_-_geograph.org.uk_-_4623007.jpg/330px-Bromley_-_geograph.org.uk_-_4623007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bruk_bet_termalica",
+    "name": "Bruk-Bet Termalica ▲",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "bryne",
+    "name": "Bryne ▲",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "bsc_young_boys",
+    "name": "BSC Young Boys",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BSC_Young_Boys.svg/330px-BSC_Young_Boys.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "bucheon_fc_1995",
+    "name": "Bucheon FC 1995",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "burgos",
+    "name": "Burgos",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burgos_city_view_facing_south_east.jpg/330px-Burgos_city_view_facing_south_east.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "burnley",
+    "name": "Burnley",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burnley_Montage.jpg/330px-Burnley_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "burton_albion",
+    "name": "Burton Albion",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "busan_ipark",
+    "name": "Busan IPark",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cadiz",
+    "name": "Cádiz",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cadiz_aerea.jpg/330px-Cadiz_aerea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cagliari",
+    "name": "Cagliari",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cagliari_collage.png/330px-Cagliari_collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cambridge_united",
+    "name": "Cambridge United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "type": "national",
+    "country": "Canada",
+    "competitions": [
+      "fifa_womens_world_cup",
+      "uefa_womens_euro"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cardiff_city",
+    "name": "Cardiff City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "carl_zeiss_jena",
+    "name": "Carl Zeiss Jena",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "frauen_bundesliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "carrarese",
+    "name": "Carrarese",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "casa_pia",
+    "name": "Casa Pia",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coat_of_arms_of_Portugal.svg/330px-Coat_of_arms_of_Portugal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "castellon",
+    "name": "Castellón",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "catanzaro",
+    "name": "Catanzaro",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Collage_-_Catanzaro.png/330px-Collage_-_Catanzaro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cd_nacional",
+    "name": "CD Nacional",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "celta_vigo",
+    "name": "Celta Vigo",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "celtic",
+    "name": "Celtic",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "central_coast_mariners",
+    "name": "Central Coast Mariners",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "central_cordoba",
+    "name": "Central Córdoba",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "cercle_brugge",
+    "name": "Cercle Brugge",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cesena",
+    "name": "Cesena",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Panorama_di_Cesena_e_le_sue_colline.jpg/330px-Panorama_di_Cesena_e_le_sue_colline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "ceuta",
+    "name": "Ceuta ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cf_montreal",
+    "name": "CF Montreal",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "cfr_cluj",
+    "name": "CFR Cluj",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "chabab_mohammedia",
+    "name": "Chabab Mohammedia",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "changchun_yatai",
+    "name": "Changchun Yatai",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "charleroi",
+    "name": "Charleroi",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Charleroi_-_H%C3%B4tel_de_ville_vu_de_la_place_Charles_II_-_2019-06-01.jpg/330px-Charleroi_-_H%C3%B4tel_de_ville_vu_de_la_place_Charles_II_-_2019-06-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "charlotte_fc",
+    "name": "Charlotte FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "charlton_athletic",
+    "name": "Charlton Athletic",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "cheltenham_town",
+    "name": "Cheltenham Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "chengdu_rongcheng",
+    "name": "Chengdu Rongcheng",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "chennaiyin",
+    "name": "Chennaiyin",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "cheonan_city",
+    "name": "Cheonan City",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chesterfield",
+    "name": "Chesterfield",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chicago_fire",
+    "name": "Chicago Fire",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chicago_red_stars",
+    "name": "Chicago Red Stars",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chungbuk_cheongju",
+    "name": "Chungbuk Cheongju",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "chungnam_asan",
+    "name": "Chungnam Asan",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "classic_xi",
+    "name": "Classic XI",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "clermont_foot",
+    "name": "Clermont Foot",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "club_brugge",
+    "name": "Club Brugge",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "colchester_united",
+    "name": "Colchester United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "colorado_rapids",
+    "name": "Colorado Rapids",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "columbus_crew_sc",
+    "name": "Columbus Crew SC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "como",
+    "name": "Como",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Como_and_its_lake.jpg/330px-Como_and_its_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cordoba_cf",
+    "name": "Córdoba CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cork_city",
+    "name": "Cork City ▲",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "coventry_city",
+    "name": "Coventry City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "cr_khemis",
+    "name": "CR Khemis",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cracovia",
+    "name": "Cracovia",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "crawley_town",
+    "name": "Crawley Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "cremonese",
+    "name": "Cremonese",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "crewe_alexandra",
+    "name": "Crewe Alexandra",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "type": "national",
+    "country": "Croatia",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/330px-Flag_of_Croatia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cruz_azul",
+    "name": "Cruz Azul",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cruz_Azul_2026.png/330px-Cruz_Azul_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "crystal_palace",
+    "name": "Crystal Palace",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "csikszereda_ciuc",
+    "name": "Csíkszereda Ciuc ▲",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "cultural_leonesa",
+    "name": "Cultural Leonesa ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "czechia",
+    "name": "Czechia",
+    "type": "national",
+    "country": "Czechia",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "d_c_united",
+    "name": "D.C. United",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "daegu_fc",
+    "name": "Daegu FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "daejeon_hana_citizen",
+    "name": "Daejeon Hana Citizen",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "dalian_yingbo",
+    "name": "Dalian Yingbo ▲",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "damac",
+    "name": "Damac",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "darmstadt_98",
+    "name": "Darmstadt 98",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "defensa_y_justicia",
+    "name": "Defensa y Justicia",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg/330px-Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "degerfors_if",
+    "name": "Degerfors IF ▲",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "dender_eh",
+    "name": "Dender EH",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "type": "national",
+    "country": "Denmark",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/330px-Flag_of_Denmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "deportivo_abanca",
+    "name": "Deportivo Abanca",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "deportivo_la_coruna",
+    "name": "Deportivo La Coruña",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "deportivo_riestra",
+    "name": "Deportivo Riestra",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/330px-Escudo_del_Club_Deportivo_Riestra.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "derby_county",
+    "name": "Derby County",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "derry_city",
+    "name": "Derry City",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "dijon",
+    "name": "Dijon",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dijon_-_Puits_de_Mo%C3%AFse_-_02.jpg/330px-Dijon_-_Puits_de_Mo%C3%AFse_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dinamo_bucuresti",
+    "name": "Dinamo București",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "dinamo_kiev",
+    "name": "Dinamo Kiev",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "dinamo_zagreb",
+    "name": "Dinamo Zagreb",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "djurgardens_if",
+    "name": "Djurgårdens IF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Djurgardens_IF_logo.svg/330px-Djurgardens_IF_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "doncaster_rovers",
+    "name": "Doncaster Rovers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "drogheda",
+    "name": "Drogheda",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DroghedaLouthMeath.jpg/330px-DroghedaLouthMeath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dundee",
+    "name": "Dundee",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DundeeSkyline2017.jpg/330px-DundeeSkyline2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dundee_united",
+    "name": "Dundee United",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "dunkerque",
+    "name": "Dunkerque",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "dux_logrono",
+    "name": "DUX Logroño ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "dynamo_dresden",
+    "name": "Dynamo Dresden",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "east_bengal",
+    "name": "East Bengal",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "eibar",
+    "name": "Eibar",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "eintracht_braunschweig",
+    "name": "Eintracht Braunschweig",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "eintracht_frankfurt",
+    "name": "Eintracht Frankfurt",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga",
+      "non_licensed_leagues_female"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "elche",
+    "name": "Elche",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "empoli",
+    "name": "Empoli",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "en_avant_guingamp",
+    "name": "En Avant Guingamp",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "energie_cottbus",
+    "name": "Energie Cottbus",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "type": "national",
+    "country": "England",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "erzgebirge_aue",
+    "name": "Erzgebirge Aue",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "espanyol",
+    "name": "Espanyol",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "estoril",
+    "name": "Estoril",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "estrela_amadora",
+    "name": "Estrela Amadora",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "estudiantes",
+    "name": "Estudiantes",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ettifaq_fc",
+    "name": "Ettifaq FC",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "everton",
+    "name": "Everton",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "excelsior",
+    "name": "Excelsior ▲",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "exeter_city",
+    "name": "Exeter City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "eyupspor",
+    "name": "Eyüpspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "falkirk",
+    "name": "Falkirk ▲",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "famalicao",
+    "name": "Famalicão",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "far_rabat",
+    "name": "FAR Rabat",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "farul_constanta",
+    "name": "Farul Constanța",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fatih_karagumruk",
+    "name": "Fatih Karagümrük ▲",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fc_annecy",
+    "name": "FC Annecy",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fc_anyang",
+    "name": "FC Anyang",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fc_augsburg",
+    "name": "FC Augsburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_barcelona",
+    "name": "FC Barcelona",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "fc_basel",
+    "name": "FC Basel",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_cincinnati",
+    "name": "FC Cincinnati",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fc_dallas",
+    "name": "FC Dallas",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_ingolstadt_04",
+    "name": "FC Ingolstadt 04",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fc_juarez",
+    "name": "FC Juárez",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fc_kbenhavn",
+    "name": "FC København",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_lausanne_sport",
+    "name": "FC Lausanne-Sport",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_lorient",
+    "name": "FC Lorient",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_lugano",
+    "name": "FC Lugano",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_luzern",
+    "name": "FC Luzern",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_metz",
+    "name": "FC Metz",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fc_midtjylland",
+    "name": "FC Midtjylland",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fc_nantes",
+    "name": "FC Nantes",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fc_nordsjlland",
+    "name": "FC Nordsjælland",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fc_porto",
+    "name": "FC Porto",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fc_red_bull_salzburg",
+    "name": "FC Red Bull Salzburg",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_seoul",
+    "name": "FC Seoul",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_sion",
+    "name": "FC Sion",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fc_st_gallen",
+    "name": "FC St. Gallen",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_st_pauli",
+    "name": "FC St. Pauli",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fc_utrecht",
+    "name": "FC Utrecht",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fc_viktoria_koln",
+    "name": "FC Viktoria Köln",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fc_volendam",
+    "name": "FC Volendam ▲",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "fc_zurich",
+    "name": "FC Zürich",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league",
+      "non_licensed_leagues_female"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fcsb",
+    "name": "FCSB",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fenerbahce",
+    "name": "Fenerbahçe",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "ferencvarosi_tc",
+    "name": "Ferencvárosi TC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "type": "national",
+    "country": "Finland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fiorentina",
+    "name": "Fiorentina",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fk_austria_wien",
+    "name": "FK Austria Wien",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fleetwood_town",
+    "name": "Fleetwood Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "fleury",
+    "name": "Fleury",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fortuna_dusseldorf",
+    "name": "Fortuna Düsseldorf",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fortuna_sittard",
+    "name": "Fortuna Sittard",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "type": "national",
+    "country": "France",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fredericia",
+    "name": "Fredericia",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "fredrikstad",
+    "name": "Fredrikstad",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "frosione",
+    "name": "Frosione",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "fulham",
+    "name": "Fulham",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "fus_rabat",
+    "name": "FUS Rabat",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "gais",
+    "name": "GAIS",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "galway_united",
+    "name": "Galway United",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "gangwon_fc",
+    "name": "Gangwon FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "gazisehir_gaziantep_fk",
+    "name": "Gazişehir Gaziantep FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "genclerbirligi",
+    "name": "Gençlerbirliği ▲",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "genk",
+    "name": "Genk",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "genoa",
+    "name": "Genoa",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "gent",
+    "name": "Gent",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "type": "national",
+    "country": "Germany",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "getafe",
+    "name": "Getafe",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "type": "national",
+    "country": "Ghana",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "gil_vicente",
+    "name": "Gil Vicente",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "gillingham",
+    "name": "Gillingham",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "gimcheon_sangmu",
+    "name": "Gimcheon Sangmu",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "gimnasia",
+    "name": "Gimnasia",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "gimpo_fc",
+    "name": "Gimpo FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "girona",
+    "name": "Girona",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "gks_katowice",
+    "name": "GKS Katowice",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "glasgow_city",
+    "name": "Glasgow City",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_female"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "go_ahead_eagles",
+    "name": "Go Ahead Eagles",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "godoy_cruz",
+    "name": "Godoy Cruz",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "gornik_zabrze",
+    "name": "Górnik Zabrze",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "goztepe",
+    "name": "Göztepe",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "granada",
+    "name": "Granada",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion",
+      "liga_f"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "grasshopper",
+    "name": "Grasshopper",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "grazer_ak",
+    "name": "Grazer AK",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "grenoble_foot_38",
+    "name": "Grenoble Foot 38",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "greuther_furth",
+    "name": "Greuther Fürth",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "grimsby_town",
+    "name": "Grimsby Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "groningen",
+    "name": "Groningen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "guadalajara",
+    "name": "Guadalajara",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "gwangju_fc",
+    "name": "Gwangju FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "gyeongnam_fc",
+    "name": "Gyeongnam FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "hajduk_split",
+    "name": "Hajduk Split",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "halmstads_bk",
+    "name": "Halmstads BK",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "hamarkameratene",
+    "name": "Hamarkameratene",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "hamburger_sv",
+    "name": "Hamburger SV ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "hammarby_if",
+    "name": "Hammarby IF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "hannover_96",
+    "name": "Hannover 96",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "hansa_rostock",
+    "name": "Hansa Rostock",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "harrogate_town",
+    "name": "Harrogate Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "hassania_agadir",
+    "name": "Hassania Agadir",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "haugesund",
+    "name": "Haugesund",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "havre_ac",
+    "name": "Havre AC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "heart_of_midlothian",
+    "name": "Heart of Midlothian",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "hellas_verona",
+    "name": "Hellas Verona",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "henan_jianye",
+    "name": "Henan Jianye",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "heracles_almelo",
+    "name": "Heracles Almelo",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "hermannstadt",
+    "name": "Hermannstadt",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "hertha_bsc",
+    "name": "Hertha BSC",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "hibernian",
+    "name": "Hibernian",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "hjk_helsinki",
+    "name": "HJK Helsinki",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "holstein_kiel",
+    "name": "Holstein Kiel",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "houston_dash",
+    "name": "Houston Dash",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "houston_dynamo",
+    "name": "Houston Dynamo",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "huddersfield_town",
+    "name": "Huddersfield Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "huesca",
+    "name": "Huesca",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "hull_city",
+    "name": "Hull City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "type": "national",
+    "country": "Hungary",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "huracan",
+    "name": "Huracán",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "type": "national",
+    "country": "Iceland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "if_brommapojkarna",
+    "name": "IF Brommapojkarna",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "if_elfsborg",
+    "name": "IF Elfsborg",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ifk_goteborg",
+    "name": "IFK Göteborg",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ifk_norrkoping",
+    "name": "IFK Norrköping",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ifk_varnamo",
+    "name": "IFK Värnamo",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "ik_sirius",
+    "name": "IK Sirius",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "independiente",
+    "name": "Independiente",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "independiente_rivadavia",
+    "name": "Independiente Rivadavia",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "instituto_cordoba",
+    "name": "Instituto Córdoba",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "inter",
+    "name": "Inter",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "inter_lombardia_fc",
+    "name": "Inter (‘Lombardia FC’)",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "inter_miami_cf",
+    "name": "Inter Miami CF",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "ipswich_town",
+    "name": "Ipswich Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "istanbul_basaksehir_fk",
+    "name": "Istanbul Başakşehir FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "type": "national",
+    "country": "Italy",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ittihad_tanger",
+    "name": "Ittihad Tanger",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "jagiellonia_biaystok",
+    "name": "Jagiellonia Białystok",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "jahn_regensburg",
+    "name": "Jahn Regensburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "jamshedpur",
+    "name": "Jamshedpur",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "jeju_united",
+    "name": "Jeju United",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "jeonbuk_hyundai_motors",
+    "name": "Jeonbuk Hyundai Motors",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "jeonnam_dragons",
+    "name": "Jeonnam Dragons",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "juve_stabia",
+    "name": "Juve Stabia",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_female",
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "kaizer_chiefs",
+    "name": "Kaizer Chiefs",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "kansas_city_current",
+    "name": "Kansas City Current",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "karlsruher_sc",
+    "name": "Karlsruher SC",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "kasmpasa_istanbul",
+    "name": "Kasımpaşa Istanbul",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "kayserispor",
+    "name": "Kayserispor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "kerala_blasters",
+    "name": "Kerala Blasters",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "kfum_oslo",
+    "name": "KFUM Oslo",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "kilmarnock",
+    "name": "Kilmarnock",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "kocaelispor",
+    "name": "Kocaelispor ▲",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "konyaspor",
+    "name": "Konyaspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "korona_kielce",
+    "name": "Korona Kielce",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "kristiansund",
+    "name": "Kristiansund",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "la_galaxy",
+    "name": "LA Galaxy",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "la_louviere",
+    "name": "La Louvière ▲",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lanus",
+    "name": "Lanús",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "las_palmas",
+    "name": "Las Palmas",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lask",
+    "name": "LASK",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "laval",
+    "name": "Laval",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lazio",
+    "name": "Lazio",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "lazio_latium",
+    "name": "Lazio (‘Latium’)",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "le_havre",
+    "name": "Le Havre",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "le_mans",
+    "name": "Le Mans ▲",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lecce",
+    "name": "Lecce",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lech_poznan",
+    "name": "Lech Poznań",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "lechia_gdansk",
+    "name": "Lechia Gdańsk",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "leeds_united",
+    "name": "Leeds United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "leganes",
+    "name": "Leganés",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "legia_warszawa",
+    "name": "Legia Warszawa",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "leicester_city",
+    "name": "Leicester City",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "leon",
+    "name": "León",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "leuven",
+    "name": "Leuven",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "levante",
+    "name": "Levante",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "levante_las_planas",
+    "name": "Levante Las Planas",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "leyton_orient",
+    "name": "Leyton Orient",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "lincoln_city",
+    "name": "Lincoln City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "livingston",
+    "name": "Livingston ▲",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "london_city_lionesses",
+    "name": "London City Lionesses ▲",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "los_angeles_fc",
+    "name": "Los Angeles FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "losc_lille",
+    "name": "LOSC Lille",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "luton_town",
+    "name": "Luton Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "macarthur_fc",
+    "name": "Macarthur FC",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "madrid_cff",
+    "name": "Madrid CFF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mainz_05",
+    "name": "Mainz 05",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "malaga",
+    "name": "Málaga",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mallorca",
+    "name": "Mallorca",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "malmo_ff",
+    "name": "Malmö FF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mamelodi_sundowns",
+    "name": "Mamelodi Sundowns",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "manchester_city",
+    "name": "Manchester City",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "manchester_united",
+    "name": "Manchester United",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "mansfield_town",
+    "name": "Mansfield Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mantova",
+    "name": "Mantova ▲",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mas_fes",
+    "name": "MAS Fes",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mat_tetouan",
+    "name": "MAT Tetouan",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mazatlan",
+    "name": "Mazatlán",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "mco_oujda",
+    "name": "MCO Oujda",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mechelen",
+    "name": "Mechelen",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "meizhou_hakka",
+    "name": "Meizhou Hakka",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "melbourne_city",
+    "name": "Melbourne City",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "melbourne_victory",
+    "name": "Melbourne Victory",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "metaloglobus_bucuresti",
+    "name": "Metaloglobus București",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "type": "national",
+    "country": "Mexico",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "middlesbrough",
+    "name": "Middlesbrough",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "milan_milano_fc",
+    "name": "Milan (‘Milano FC’)",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "milano_fc",
+    "name": "Milano FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "millwall",
+    "name": "Millwall",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "milton_keynes_dons",
+    "name": "Milton Keynes Dons",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "minnesota_united_fc",
+    "name": "Minnesota United FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "mirandes",
+    "name": "Mirandés",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "mjallby_ai",
+    "name": "Mjällby AI",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "mls_all_star",
+    "name": "MLS All-Star",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "modena",
+    "name": "Modena",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mohammedan",
+    "name": "Mohammedan",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "molde",
+    "name": "Molde",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "monterrey",
+    "name": "Monterrey",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "montpellier_hsc",
+    "name": "Montpellier HSC",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "moreirense",
+    "name": "Moreirense",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "type": "national",
+    "country": "Morocco",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "motherwell",
+    "name": "Motherwell",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "motor_lublin",
+    "name": "Motor Lublin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "msv_duisburg",
+    "name": "MSV Duisburg ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mumbai_city",
+    "name": "Mumbai City",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "nac_breda",
+    "name": "NAC Breda",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "nancy",
+    "name": "Nancy ▲",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "nantes",
+    "name": "Nantes",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "nashville_sc",
+    "name": "Nashville SC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "nec_nijmegen",
+    "name": "NEC Nijmegen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "necaxa",
+    "name": "Necaxa",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "neom",
+    "name": "Neom ▲",
+    "type": "club",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "mbs_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "type": "national",
+    "country": "Netherlands",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "new_england_revolution",
+    "name": "New England Revolution",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "new_york_city_fc",
+    "name": "New York City FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "new_york_red_bulls",
+    "name": "New York Red Bulls",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "newcastle_jets",
+    "name": "Newcastle Jets",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "newcastle_united",
+    "name": "Newcastle United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "newells",
+    "name": "Newell’s",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "newport_county",
+    "name": "Newport County",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "nj_ny_gotham",
+    "name": "NJ/NY Gotham",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "north_carolina_courage",
+    "name": "North Carolina Courage",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "northampton_town",
+    "name": "Northampton Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "northeast_united",
+    "name": "NorthEast United",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "northern_ireland",
+    "name": "Northern Ireland",
+    "type": "national",
+    "country": "Northern Ireland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "type": "national",
+    "country": "Norway",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "norwich_city",
+    "name": "Norwich City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "nottingham_forest",
+    "name": "Nottingham Forest",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "notts_county",
+    "name": "Notts County",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "ob_odense",
+    "name": "OB Odense",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "ogc_nice",
+    "name": "OGC Nice",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ol_lyonnes",
+    "name": "OL Lyonnes",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "oldham_athletic",
+    "name": "Oldham Athletic ▲",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "olympiacos_fc",
+    "name": "Olympiacos FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "olympic_club_de_safi",
+    "name": "Olympic Club de Safi",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "olympique_de_marseille",
+    "name": "Olympique de Marseille ▲",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "olympique_lyonnais",
+    "name": "Olympique Lyonnais",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "orlando_city",
+    "name": "Orlando City",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "orlando_pirates",
+    "name": "Orlando Pirates",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "orlando_pride",
+    "name": "Orlando Pride",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "osasuna",
+    "name": "Osasuna",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "osters_if",
+    "name": "Östers IF ▲",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "otelul_galati",
+    "name": "Oțelul Galați",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "oxford_united",
+    "name": "Oxford United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "pachuca",
+    "name": "Pachuca",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "padova",
+    "name": "Padova ▲",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "palermo",
+    "name": "Palermo",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "panathinaikos",
+    "name": "Panathinaikos",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "paok",
+    "name": "PAOK",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "paris_fc",
+    "name": "Paris FC",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "paris_saint_germain",
+    "name": "Paris Saint-Germain",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "parma",
+    "name": "Parma",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "pau_fc",
+    "name": "Pau FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "pec_zwolle",
+    "name": "PEC Zwolle",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "perth_glory",
+    "name": "Perth Glory",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "pescara",
+    "name": "Pescara ▲",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "peterborough_united",
+    "name": "Peterborough United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "petrolul",
+    "name": "Petrolul",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "philadelphia_union",
+    "name": "Philadelphia Union",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "piast_gliwice",
+    "name": "Piast Gliwice",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "pisa",
+    "name": "Pisa",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "platense",
+    "name": "Platense",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "plymouth_argyle",
+    "name": "Plymouth Argyle",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "pogon_szczecin",
+    "name": "Pogoń Szczecin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "pohang_steelers",
+    "name": "Pohang Steelers",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "type": "national",
+    "country": "Poland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "port_vale",
+    "name": "Port Vale",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "portland_thorns",
+    "name": "Portland Thorns",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "portland_timbers",
+    "name": "Portland Timbers",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "portsmouth",
+    "name": "Portsmouth",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "type": "national",
+    "country": "Portugal",
+    "competitions": [
+      "fifa_womens_world_cup",
+      "uefa_womens_euro"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "preston_north_end",
+    "name": "Preston North End",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "preuen_munster",
+    "name": "Preußen Münster",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "psv",
+    "name": "PSV",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "puebla",
+    "name": "Puebla",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "qarabag_fk",
+    "name": "Qarabağ FK",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "type": "national",
+    "country": "Qatar",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "qingdao_hainiu",
+    "name": "Qingdao Hainiu",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "qingdao_west_coast",
+    "name": "Qingdao West Coast",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "queens_park_rangers",
+    "name": "Queens Park Rangers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "queretaro",
+    "name": "Querétaro",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "r_s_c_anderlecht",
+    "name": "R.S.C Anderlecht",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "racing_club",
+    "name": "Racing Club",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "racing_club_de_lens",
+    "name": "Racing Club de Lens ▲",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1",
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "racing_louisville",
+    "name": "Racing Louisville",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "racing_santander",
+    "name": "Racing Santander",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "radomiak_radom",
+    "name": "Radomiak Radom",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "raja_casablanca",
+    "name": "Raja Casablanca",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rakow_czestochowa",
+    "name": "Raków Częstochowa",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "randers_fc",
+    "name": "Randers FC",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "rangers",
+    "name": "Rangers",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "rapid_bucuresti",
+    "name": "Rapid București",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rayo_vallecano",
+    "name": "Rayo Vallecano",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rb_leipzig",
+    "name": "RB Leipzig",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "rc_strasbourg_alsace",
+    "name": "RC Strasbourg Alsace",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "reading",
+    "name": "Reading",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "real_betis",
+    "name": "Real Betis",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "real_madrid",
+    "name": "Real Madrid",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f",
+      "non_licensed_leagues_female"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "real_oviedo",
+    "name": "Real Oviedo",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "real_salt_lake",
+    "name": "Real Salt Lake",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "real_sociedad",
+    "name": "Real Sociedad",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "real_sociedad_b",
+    "name": "Real Sociedad B ▲",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "red_star_fc",
+    "name": "Red Star FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "reggiana",
+    "name": "Reggiana",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "republic_of_ireland",
+    "name": "Republic of Ireland",
+    "type": "national",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rio_ave",
+    "name": "Rio Ave",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "river_plate",
+    "name": "River Plate",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "rizespor",
+    "name": "Rizespor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rodez_averyron",
+    "name": "Rodez Averyron",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_female",
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "type": "national",
+    "country": "Romania",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rosario_central",
+    "name": "Rosario Central",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rosenborg",
+    "name": "Rosenborg",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rosengard",
+    "name": "Rosengård",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_female"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rot_weiss_essen",
+    "name": "Rot-Weiss Essen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga",
+      "frauen_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "rotherham_united",
+    "name": "Rotherham United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "roundglass_punjab",
+    "name": "RoundGlass Punjab",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "royal_antwerp_fc",
+    "name": "Royal Antwerp FC",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "rsb_berkane",
+    "name": "RSB Berkane",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "salford_city",
+    "name": "Salford City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "salmi",
+    "name": "Salmi",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sampdoria",
+    "name": "Sampdoria",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "samsunspor",
+    "name": "Samsunspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "san_diego",
+    "name": "San Diego ▲",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "san_diego_wave",
+    "name": "San Diego Wave",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "san_jose_earthquakes",
+    "name": "San Jose Earthquakes",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "san_lorenzo",
+    "name": "San Lorenzo",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "san_martin",
+    "name": "San Martín ▲",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sandefjord",
+    "name": "Sandefjord",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "santa_clara",
+    "name": "Santa Clara",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "santos_laguna",
+    "name": "Santos Laguna",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sarmiento",
+    "name": "Sarmiento",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sarpsborg_08",
+    "name": "Sarpsborg 08",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "sassuolo",
+    "name": "Sassuolo",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "non_licensed_leagues_male",
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sc_bastia",
+    "name": "SC Bastia",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sc_freiburg",
+    "name": "SC Freiburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sc_heerenveen",
+    "name": "SC Heerenveen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sc_paderborn",
+    "name": "SC Paderborn",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sc_verl",
+    "name": "SC Verl",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "schalke_04",
+    "name": "Schalke 04",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "type": "national",
+    "country": "Scotland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "scr_altach",
+    "name": "SCR Altach",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sd_eibar",
+    "name": "SD Eibar",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "seattle_reign",
+    "name": "Seattle Reign",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "seattle_sounders_fc",
+    "name": "Seattle Sounders FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "seongnam_fc",
+    "name": "Seongnam FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "seoul_e_land",
+    "name": "Seoul E-Land",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "servette_fc",
+    "name": "Servette FC",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sevilla",
+    "name": "Sevilla",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "liga_f"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "shakhtar_donetsk",
+    "name": "Shakhtar Donetsk",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "shamrock_rovers",
+    "name": "Shamrock Rovers",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "shandong_luneng_taishan",
+    "name": "Shandong Luneng Taishan",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "shanghai_greenland_shenhua",
+    "name": "Shanghai Greenland Shenhua",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "shanghai_port",
+    "name": "Shanghai Port",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sheffield_united",
+    "name": "Sheffield United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sheffield_wednesday",
+    "name": "Sheffield Wednesday",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "shelbourne",
+    "name": "Shelbourne",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "shenzhen_peng_city",
+    "name": "Shenzhen Peng City",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "shrewsbury_town",
+    "name": "Shrewsbury Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "silkeborg_if",
+    "name": "Silkeborg IF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sint_truiden",
+    "name": "Sint-Truiden",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sk_brann",
+    "name": "SK Brann",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sk_rapid_wien",
+    "name": "SK Rapid Wien",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sk_sturm_graz",
+    "name": "SK Sturm Graz",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sl_benfica",
+    "name": "SL Benfica",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal",
+      "non_licensed_leagues_female"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "slavia_praha",
+    "name": "Slavia Praha",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_female",
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sligo_rovers",
+    "name": "Sligo Rovers",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "snderjyske",
+    "name": "SønderjyskE ▲",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "soccer_aid",
+    "name": "Soccer Aid",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "southampton",
+    "name": "Southampton",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "type": "national",
+    "country": "Spain",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "sparta_praha",
+    "name": "Sparta Praha",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sparta_rotterdam",
+    "name": "Sparta Rotterdam",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "spezia",
+    "name": "Spezia",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sporting",
+    "name": "Sporting",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "sporting_de_braga",
+    "name": "Sporting de Braga",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sporting_de_gijon",
+    "name": "Sporting de Gijón",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sporting_kansas_city",
+    "name": "Sporting Kansas City",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ssv_ulm",
+    "name": "SSV Ulm",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "st_louis_city",
+    "name": "St Louis City",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "st_mirren",
+    "name": "St Mirren",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "st_patricks_athletic",
+    "name": "St Patrick’s Athletic",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "stade_brestois_29",
+    "name": "Stade Brestois 29",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "stade_de_reims",
+    "name": "Stade de Reims",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "stade_rennais_fc",
+    "name": "Stade Rennais FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "standard_liege",
+    "name": "Standard Liège",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "stevenage",
+    "name": "Stevenage",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "stockport_county",
+    "name": "Stockport County",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "stoke_city",
+    "name": "Stoke City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "strasbourg",
+    "name": "Strasbourg",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "arkema_d1"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "strmsgodset",
+    "name": "Strømsgodset",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sudtirol",
+    "name": "Südtirol",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "sunderland",
+    "name": "Sunderland",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "suwon_fc",
+    "name": "Suwon FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "sv_elversberg",
+    "name": "SV Elversberg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sv_ried",
+    "name": "SV Ried ▲",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "sv_waldhof_mannheim",
+    "name": "SV Waldhof Mannheim",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "swansea_city",
+    "name": "Swansea City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "type": "national",
+    "country": "Sweden",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "swindon_town",
+    "name": "Swindon Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "sydney_fc",
+    "name": "Sydney FC",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "talleres",
+    "name": "Talleres",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "telstar",
+    "name": "Telstar ▲",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "ternana",
+    "name": "Ternana",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "tgs_hoffenheim_ii",
+    "name": "TGS Hoffenheim II ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "thun",
+    "name": "Thun ▲",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "tianjin_teda",
+    "name": "Tianjin TEDA",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "tigre",
+    "name": "Tigre",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "tijuana",
+    "name": "Tijuana",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "toluca",
+    "name": "Toluca",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "tondela",
+    "name": "Tondela ▲",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "torino",
+    "name": "Torino",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "toronto_fc",
+    "name": "Toronto FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "tottenham",
+    "name": "Tottenham",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "toulouse_fc",
+    "name": "Toulouse FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "trabzonspor",
+    "name": "Trabzonspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "tranmere_rovers",
+    "name": "Tranmere Rovers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "troms",
+    "name": "Tromsø",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "troyes",
+    "name": "Troyes",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "tsv_1860_munchen",
+    "name": "TSV 1860 München",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "tsv_hartberg",
+    "name": "TSV Hartberg",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "tsv_havelse",
+    "name": "TSV Havelse ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "twente",
+    "name": "Twente",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "uanl",
+    "name": "UANL",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "udg_tenerife",
+    "name": "UDG Tenerife",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "liga_f"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "udinese",
+    "name": "Udinese",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "ukraine",
+    "name": "Ukraine",
+    "type": "national",
+    "country": "Ukraine",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "ulsan_hyundai",
+    "name": "Ulsan Hyundai",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "k_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "unam",
+    "name": "UNAM",
+    "type": "club",
+    "country": "Mexico",
+    "competitions": [
+      "liga_mx"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "union",
+    "name": "Unión",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "union_berlin",
+    "name": "Union Berlin ▲",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "union_sg",
+    "name": "Union SG",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "union_touarga_sport",
+    "name": "Union Touarga Sport",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "unirea_slobozia",
+    "name": "Unirea Slobozia",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "united_states_of_america",
+    "name": "United States of America",
+    "type": "national",
+    "country": "United States of America",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "united_tigers",
+    "name": "United Tigers ▲",
+    "type": "club",
+    "country": "India",
+    "competitions": [
+      "hero_isl"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "univ_catolico",
+    "name": "Univ Catolico",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "universitatea_cluj",
+    "name": "Universitatea Cluj",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "universitatea_craiova",
+    "name": "Universitatea Craiova",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "uta_arad",
+    "name": "UTA Arad",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "utah_royals",
+    "name": "Utah Royals",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "valerenga",
+    "name": "Vålerenga ▲",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "valladolid",
+    "name": "Valladolid",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "vancouver_whitecaps_fc",
+    "name": "Vancouver Whitecaps FC",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "major_league_soccer"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "vejle_boldklub",
+    "name": "Vejle Boldklub ▲",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "velez_sarsfield",
+    "name": "Vélez Sarsfield",
+    "type": "club",
+    "country": "Argentina",
+    "competitions": [
+      "liga_profesional_de_futbol"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "venezia",
+    "name": "Venezia",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "vfb_stuttgart",
+    "name": "VfB Stuttgart",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "vfb_stuttgart_ii",
+    "name": "VfB Stuttgart II",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "vfl_bochum",
+    "name": "VfL Bochum",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "2_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "vfl_osnabruck",
+    "name": "VfL Osnabrück",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "vfl_wolfsburg",
+    "name": "VfL Wolfsburg",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga",
+      "non_licensed_leagues_female"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "viborg_ff",
+    "name": "Viborg FF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "viking",
+    "name": "Viking",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "viktoria_plzen",
+    "name": "Viktoria Plzeň",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "villarreal",
+    "name": "Villarreal",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 5,
+    "logo": ""
+  },
+  {
+    "id": "virtus_entella",
+    "name": "Virtus Entella ▲",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_bkt"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "vitoria_de_guimaraes",
+    "name": "Vitória de Guimarães",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wales",
+    "name": "Wales",
+    "type": "national",
+    "country": "Wales",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "walsall",
+    "name": "Walsall",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_two"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "washington_spirit",
+    "name": "Washington Spirit",
+    "type": "club",
+    "country": "United States",
+    "competitions": [
+      "nwsl"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "waterford",
+    "name": "Waterford",
+    "type": "club",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "sse_airtricity_pd"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "watford",
+    "name": "Watford",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "wehen_wiesbaden",
+    "name": "Wehen Wiesbaden",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "3_liga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wellington_phoenix",
+    "name": "Wellington Phoenix",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "werder_bremen",
+    "name": "Werder Bremen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "frauen_bundesliga"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "west_bromwich_albion",
+    "name": "West Bromwich Albion",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "west_ham",
+    "name": "West Ham",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "premier_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "westerlo",
+    "name": "Westerlo",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "western_sydney_wanderers",
+    "name": "Western Sydney Wanderers",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "western_united",
+    "name": "Western United",
+    "type": "club",
+    "country": "Australia",
+    "competitions": [
+      "isuzu_ute_a_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "widzew_odz",
+    "name": "Widzew Łódź",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wigan_athletic",
+    "name": "Wigan Athletic",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "winterthur",
+    "name": "Winterthur",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wisa_pock",
+    "name": "Wisła Płock ▲",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wolfsberger_ac",
+    "name": "Wolfsberger AC",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "wolverhampton",
+    "name": "Wolverhampton",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wrexham",
+    "name": "Wrexham",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_championship"
+    ],
+    "stars": 3,
+    "logo": ""
+  },
+  {
+    "id": "wsg_tirol",
+    "name": "WSG Tirol",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "wuhan_three_towns",
+    "name": "Wuhan Three Towns",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "wycombe_wanderers",
+    "name": "Wycombe Wanderers",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "efl_league_one"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "wydad_casablanca",
+    "name": "Wydad Casablanca",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "youssoufia_berrechid",
+    "name": "Youssoufia Berrechid",
+    "type": "club",
+    "country": "Morocco",
+    "competitions": [
+      "botola_pro"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "yunnan_yukun",
+    "name": "Yunnan Yukun ▲",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "zagebie_lubin",
+    "name": "Zagłębie Lubin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": ""
+  },
+  {
+    "id": "zaragoza",
+    "name": "Zaragoza",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_hypermotion"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "zhejiang",
+    "name": "Zhejiang",
+    "type": "club",
+    "country": "China",
+    "competitions": [
+      "chinese_super_league"
+    ],
+    "stars": 1,
+    "logo": ""
+  },
+  {
+    "id": "zlatan_fc",
+    "name": "Zlatan FC",
+    "type": "club",
+    "country": "Unknown",
+    "competitions": [
+      "non_licensed_leagues_male"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "zulte_waregem",
+    "name": "Zulte Waregem ▲",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "1a_pro_league"
+    ],
+    "stars": null,
+    "logo": ""
+  }
+]
