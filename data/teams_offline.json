@@ -1,0 +1,5161 @@
+[
+  {
+    "id": "austria_vienna",
+    "name": "Austria Vienna",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2,
+    "logo": "logos/austria_vienna.png"
+  },
+  {
+    "id": "grazer_ak_1902",
+    "name": "Grazer AK 1902",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2.5,
+    "logo": "logos/grazer_ak_1902.png"
+  },
+  {
+    "id": "lask",
+    "name": "LASK",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga",
+      "uefa_champions_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/lask.png"
+  },
+  {
+    "id": "rapid_vienna",
+    "name": "Rapid Vienna",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2,
+    "logo": "logos/rapid_vienna.png"
+  },
+  {
+    "id": "red_bull_salzburg",
+    "name": "Red Bull Salzburg",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/red_bull_salzburg.png"
+  },
+  {
+    "id": "sc_austria_lustenau",
+    "name": "SC Austria Lustenau",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 1,
+    "logo": "logos/sc_austria_lustenau.png"
+  },
+  {
+    "id": "scr_altach",
+    "name": "SCR Altach",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 1,
+    "logo": "logos/scr_altach.png"
+  },
+  {
+    "id": "sk_sturm_graz",
+    "name": "SK Sturm Graz",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/sk_sturm_graz.png"
+  },
+  {
+    "id": "sv_ried",
+    "name": "SV Ried",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2.5,
+    "logo": "logos/sv_ried.png"
+  },
+  {
+    "id": "tsv_hartberg",
+    "name": "TSV Hartberg",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 2,
+    "logo": "logos/tsv_hartberg.png"
+  },
+  {
+    "id": "wsg_tirol",
+    "name": "WSG Tirol",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 3,
+    "logo": "logos/wsg_tirol.png"
+  },
+  {
+    "id": "wolfsberger_ac",
+    "name": "Wolfsberger AC",
+    "type": "club",
+    "country": "Austria",
+    "competitions": [
+      "admiral_bundesliga"
+    ],
+    "stars": 3.5,
+    "logo": "logos/wolfsberger_ac.png"
+  },
+  {
+    "id": "cercle_brugge",
+    "name": "Cercle Brugge",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3,
+    "logo": "logos/cercle_brugge.png"
+  },
+  {
+    "id": "club_brugge_kv",
+    "name": "Club Brugge KV",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/club_brugge_kv.png"
+  },
+  {
+    "id": "kaa_gent",
+    "name": "KAA Gent",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 4,
+    "logo": "logos/kaa_gent.png"
+  },
+  {
+    "id": "krc_genk",
+    "name": "KRC Genk",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/krc_genk.png"
+  },
+  {
+    "id": "kv_kortrijk",
+    "name": "KV Kortrijk",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 1,
+    "logo": "logos/kv_kortrijk.png"
+  },
+  {
+    "id": "kv_mechelen",
+    "name": "KV Mechelen",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/kv_mechelen.png"
+  },
+  {
+    "id": "kvc_westerlo",
+    "name": "KVC Westerlo",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/kvc_westerlo.png"
+  },
+  {
+    "id": "lommel_sk",
+    "name": "Lommel SK",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 1,
+    "logo": "logos/lommel_sk.png"
+  },
+  {
+    "id": "oud_heverlee_leuven",
+    "name": "Oud-Heverlee Leuven",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/oud_heverlee_leuven.png"
+  },
+  {
+    "id": "raal_la_louviere",
+    "name": "RAAL La Louvière",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 2.5,
+    "logo": "logos/raal_la_louviere.png"
+  },
+  {
+    "id": "rsc_anderlecht",
+    "name": "RSC Anderlecht",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 4,
+    "logo": "logos/rsc_anderlecht.png"
+  },
+  {
+    "id": "royal_antwerp_fc",
+    "name": "Royal Antwerp FC",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 4,
+    "logo": "logos/royal_antwerp_fc.png"
+  },
+  {
+    "id": "royal_charleroi_sc",
+    "name": "Royal Charleroi SC",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/royal_charleroi_sc.png"
+  },
+  {
+    "id": "sk_beveren",
+    "name": "SK Beveren",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 1,
+    "logo": "logos/sk_beveren.png"
+  },
+  {
+    "id": "sint_truidense_vv",
+    "name": "Sint-Truidense VV",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/sint_truidense_vv.png"
+  },
+  {
+    "id": "standard_liege",
+    "name": "Standard Liège",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 4,
+    "logo": "logos/standard_liege.png"
+  },
+  {
+    "id": "union_sg",
+    "name": "Union Saint-Gilloise",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league",
+      "uefa_champions_league",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/union_sg.png"
+  },
+  {
+    "id": "zulte_waregem",
+    "name": "Zulte Waregem",
+    "type": "club",
+    "country": "Belgium",
+    "competitions": [
+      "jupiler_pro_league"
+    ],
+    "stars": 3,
+    "logo": "logos/zulte_waregem.png"
+  },
+  {
+    "id": "arda_kardzhali",
+    "name": "Arda Kardzhali",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/arda_kardzhali.png"
+  },
+  {
+    "id": "botev_plovdiv",
+    "name": "Botev Plovdiv",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/botev_plovdiv.png"
+  },
+  {
+    "id": "botev_vratsa",
+    "name": "Botev Vratsa",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/botev_vratsa.png"
+  },
+  {
+    "id": "cska_1948",
+    "name": "CSKA 1948",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/cska_1948.png"
+  },
+  {
+    "id": "cska_sofia",
+    "name": "CSKA Sofia",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga",
+      "uefa_europa_league"
+    ],
+    "stars": 3,
+    "logo": "logos/cska_sofia.png"
+  },
+  {
+    "id": "cherno_more_varna",
+    "name": "Cherno More Varna",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/cherno_more_varna.png"
+  },
+  {
+    "id": "dunav_ruse",
+    "name": "Dunav Ruse",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/dunav_ruse.png"
+  },
+  {
+    "id": "levski_sofia",
+    "name": "Levski Sofia",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/levski_sofia.png"
+  },
+  {
+    "id": "lokomotiv_plovdiv",
+    "name": "Lokomotiv Plovdiv",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/lokomotiv_plovdiv.png"
+  },
+  {
+    "id": "lokomotiv_sofia",
+    "name": "Lokomotiv Sofia",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/lokomotiv_sofia.png"
+  },
+  {
+    "id": "ludogorets_razgrad",
+    "name": "Ludogorets Razgrad",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/ludogorets_razgrad.png"
+  },
+  {
+    "id": "septemvri_sofia",
+    "name": "Septemvri Sofia",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/septemvri_sofia.png"
+  },
+  {
+    "id": "slavia_sofia",
+    "name": "Slavia Sofia",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/slavia_sofia.png"
+  },
+  {
+    "id": "spartak_varna",
+    "name": "Spartak Varna",
+    "type": "club",
+    "country": "Bulgaria",
+    "competitions": [
+      "efbet_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/spartak_varna.png"
+  },
+  {
+    "id": "gnk_dinamo_zagreb",
+    "name": "GNK Dinamo Zagreb",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/gnk_dinamo_zagreb.png"
+  },
+  {
+    "id": "hnk_gorica",
+    "name": "HNK Gorica",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 1,
+    "logo": "logos/hnk_gorica.png"
+  },
+  {
+    "id": "hnk_hajduk_split",
+    "name": "HNK Hajduk Split",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 4,
+    "logo": "logos/hnk_hajduk_split.png"
+  },
+  {
+    "id": "hnk_rijeka",
+    "name": "HNK Rijeka",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 3,
+    "logo": "logos/hnk_rijeka.png"
+  },
+  {
+    "id": "nk_istra_1961",
+    "name": "NK Istra 1961",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 2,
+    "logo": "logos/nk_istra_1961.png"
+  },
+  {
+    "id": "nk_lokomotiva_zagreb",
+    "name": "NK Lokomotiva Zagreb",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 2,
+    "logo": "logos/nk_lokomotiva_zagreb.png"
+  },
+  {
+    "id": "nk_osijek",
+    "name": "NK Osijek",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 2,
+    "logo": "logos/nk_osijek.png"
+  },
+  {
+    "id": "nk_rudes",
+    "name": "NK Rudes",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 1,
+    "logo": "logos/nk_rudes.png"
+  },
+  {
+    "id": "nk_varazdin",
+    "name": "NK Varazdin",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 2,
+    "logo": "logos/nk_varazdin.png"
+  },
+  {
+    "id": "slaven_belupo_koprivnica",
+    "name": "Slaven Belupo Koprivnica",
+    "type": "club",
+    "country": "Croatia",
+    "competitions": [
+      "supersport_hnl"
+    ],
+    "stars": 1,
+    "logo": "logos/slaven_belupo_koprivnica.png"
+  },
+  {
+    "id": "1_fc_slovacko",
+    "name": "1.FC Slovacko",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/1_fc_slovacko.png"
+  },
+  {
+    "id": "ac_sparta_prague",
+    "name": "AC Sparta Prague",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 4,
+    "logo": "logos/ac_sparta_prague.png"
+  },
+  {
+    "id": "bohemians_prague_1905",
+    "name": "Bohemians Prague 1905",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/bohemians_prague_1905.png"
+  },
+  {
+    "id": "fc_banik_ostrava",
+    "name": "FC Banik Ostrava",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_banik_ostrava.png"
+  },
+  {
+    "id": "fc_hradec_kralove",
+    "name": "FC Hradec Kralove",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_hradec_kralove.png"
+  },
+  {
+    "id": "fc_slovan_liberec",
+    "name": "FC Slovan Liberec",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_slovan_liberec.png"
+  },
+  {
+    "id": "fc_viktoria_plzen",
+    "name": "FC Viktoria Plzen",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_viktoria_plzen.png"
+  },
+  {
+    "id": "fc_zbrojovka_brno",
+    "name": "FC Zbrojovka Brno",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_zbrojovka_brno.png"
+  },
+  {
+    "id": "fc_zlin",
+    "name": "FC Zlin",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_zlin.png"
+  },
+  {
+    "id": "fk_jablonec",
+    "name": "FK Jablonec",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/fk_jablonec.png"
+  },
+  {
+    "id": "fk_mlada_boleslav",
+    "name": "FK Mlada Boleslav",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_mlada_boleslav.png"
+  },
+  {
+    "id": "fk_pardubice",
+    "name": "FK Pardubice",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_pardubice.png"
+  },
+  {
+    "id": "fk_teplice",
+    "name": "FK Teplice",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_teplice.png"
+  },
+  {
+    "id": "sk_artis_brno",
+    "name": "SK Artis Brno",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/sk_artis_brno.png"
+  },
+  {
+    "id": "sk_sigma_olomouc",
+    "name": "SK Sigma Olomouc",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/sk_sigma_olomouc.png"
+  },
+  {
+    "id": "sk_slavia_prague",
+    "name": "SK Slavia Prague",
+    "type": "club",
+    "country": "Czech Republic",
+    "competitions": [
+      "chance_liga",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/sk_slavia_prague.png"
+  },
+  {
+    "id": "ac_horsens",
+    "name": "AC Horsens",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/ac_horsens.png"
+  },
+  {
+    "id": "aarhus",
+    "name": "Aarhus GF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "uefa_champions_league",
+      "uefa_europa_league"
+    ],
+    "stars": 4,
+    "logo": "logos/aarhus.png"
+  },
+  {
+    "id": "brondby_if",
+    "name": "Bröndby IF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/brondby_if.png"
+  },
+  {
+    "id": "fc_copenhagen",
+    "name": "FC Copenhagen",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_copenhagen.png"
+  },
+  {
+    "id": "fc_midtjylland",
+    "name": "FC Midtjylland",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_midtjylland.png"
+  },
+  {
+    "id": "fc_nordsjaelland",
+    "name": "FC Nordsjaelland",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_nordsjaelland.png"
+  },
+  {
+    "id": "lyngby_boldklub",
+    "name": "Lyngby Boldklub",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/lyngby_boldklub.png"
+  },
+  {
+    "id": "odense_boldklub",
+    "name": "Odense Boldklub",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3.5,
+    "logo": "logos/odense_boldklub.png"
+  },
+  {
+    "id": "randers_fc",
+    "name": "Randers FC",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3.5,
+    "logo": "logos/randers_fc.png"
+  },
+  {
+    "id": "silkeborg_if",
+    "name": "Silkeborg IF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 3,
+    "logo": "logos/silkeborg_if.png"
+  },
+  {
+    "id": "sonderjyske_fodbold",
+    "name": "Sönderjyske Fodbold",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/sonderjyske_fodbold.png"
+  },
+  {
+    "id": "viborg_ff",
+    "name": "Viborg FF",
+    "type": "club",
+    "country": "Denmark",
+    "competitions": [
+      "3f_superliga"
+    ],
+    "stars": 2.5,
+    "logo": "logos/viborg_ff.png"
+  },
+  {
+    "id": "afc_bournemouth",
+    "name": "AFC Bournemouth",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/afc_bournemouth.png"
+  },
+  {
+    "id": "arsenal",
+    "name": "Arsenal FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/arsenal.png"
+  },
+  {
+    "id": "aston_villa",
+    "name": "Aston Villa",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/aston_villa.png"
+  },
+  {
+    "id": "brentford_fc",
+    "name": "Brentford FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/brentford_fc.png"
+  },
+  {
+    "id": "brighton_hove_albion",
+    "name": "Brighton & Hove Albion",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/brighton_hove_albion.png"
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/chelsea.png"
+  },
+  {
+    "id": "coventry_city",
+    "name": "Coventry City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/coventry_city.png"
+  },
+  {
+    "id": "crystal_palace",
+    "name": "Crystal Palace",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "uefa_europa_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/crystal_palace.png"
+  },
+  {
+    "id": "everton",
+    "name": "Everton FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/everton.png"
+  },
+  {
+    "id": "fulham_fc",
+    "name": "Fulham FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/fulham_fc.png"
+  },
+  {
+    "id": "hull_city",
+    "name": "Hull City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/hull_city.png"
+  },
+  {
+    "id": "ipswich_town",
+    "name": "Ipswich Town",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/ipswich_town.png"
+  },
+  {
+    "id": "leeds_united",
+    "name": "Leeds United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/leeds_united.png"
+  },
+  {
+    "id": "liverpool_fc",
+    "name": "Liverpool FC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/liverpool_fc.png"
+  },
+  {
+    "id": "manchester_city",
+    "name": "Manchester City",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/manchester_city.png"
+  },
+  {
+    "id": "manchester_united",
+    "name": "Manchester United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "uefa_champions_league"
+    ],
+    "stars": 5,
+    "logo": "logos/manchester_united.png"
+  },
+  {
+    "id": "newcastle_united",
+    "name": "Newcastle United",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/newcastle_united.png"
+  },
+  {
+    "id": "nottingham_forest",
+    "name": "Nottingham Forest",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/nottingham_forest.png"
+  },
+  {
+    "id": "sunderland_afc",
+    "name": "Sunderland AFC",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league"
+    ],
+    "stars": 4,
+    "logo": "logos/sunderland_afc.png"
+  },
+  {
+    "id": "tottenham_hotspur",
+    "name": "Tottenham Hotspur",
+    "type": "club",
+    "country": "England",
+    "competitions": [
+      "premier_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/tottenham_hotspur.png"
+  },
+  {
+    "id": "aj_auxerre",
+    "name": "AJ Auxerre",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/aj_auxerre.png"
+  },
+  {
+    "id": "as_monaco",
+    "name": "AS Monaco",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/as_monaco.png"
+  },
+  {
+    "id": "angers_sco",
+    "name": "Angers SCO",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/angers_sco.png"
+  },
+  {
+    "id": "estac_troyes",
+    "name": "ESTAC Troyes",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 2,
+    "logo": "logos/estac_troyes.png"
+  },
+  {
+    "id": "fc_lorient",
+    "name": "FC Lorient",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_lorient.png"
+  },
+  {
+    "id": "fc_toulouse",
+    "name": "FC Toulouse",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_toulouse.png"
+  },
+  {
+    "id": "losc_lille",
+    "name": "LOSC Lille",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/losc_lille.png"
+  },
+  {
+    "id": "le_havre_ac",
+    "name": "Le Havre AC",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/le_havre_ac.png"
+  },
+  {
+    "id": "le_mans_fc",
+    "name": "Le Mans FC",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 1.5,
+    "logo": "logos/le_mans_fc.png"
+  },
+  {
+    "id": "ogc_nice",
+    "name": "OGC Nice",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/ogc_nice.png"
+  },
+  {
+    "id": "olympique_lyon",
+    "name": "Olympique Lyon",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/olympique_lyon.png"
+  },
+  {
+    "id": "olympique_marseille",
+    "name": "Olympique Marseille",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/olympique_marseille.png"
+  },
+  {
+    "id": "paris_saint_germain",
+    "name": "Paris Saint-Germain",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/paris_saint_germain.png"
+  },
+  {
+    "id": "rc_lens",
+    "name": "RC Lens",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/rc_lens.png"
+  },
+  {
+    "id": "rc_strasbourg_alsace",
+    "name": "RC Strasbourg Alsace",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/rc_strasbourg_alsace.png"
+  },
+  {
+    "id": "stade_brestois_29",
+    "name": "Stade Brestois 29",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue"
+    ],
+    "stars": 4,
+    "logo": "logos/stade_brestois_29.png"
+  },
+  {
+    "id": "stade_rennais_fc",
+    "name": "Stade Rennais FC",
+    "type": "club",
+    "country": "France",
+    "competitions": [
+      "ligue",
+      "uefa_europa_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/stade_rennais_fc.png"
+  },
+  {
+    "id": "1_fc_koln",
+    "name": "1.FC Köln",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/1_fc_koln.png"
+  },
+  {
+    "id": "1_fc_union_berlin",
+    "name": "1.FC Union Berlin",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/1_fc_union_berlin.png"
+  },
+  {
+    "id": "1_fsv_mainz_05",
+    "name": "1.FSV Mainz 05",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/1_fsv_mainz_05.png"
+  },
+  {
+    "id": "bayer_04_leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/bayer_04_leverkusen.png"
+  },
+  {
+    "id": "bayern_munchen",
+    "name": "Bayern Munich",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/bayern_munchen.png"
+  },
+  {
+    "id": "borussia_dortmund",
+    "name": "Borussia Dortmund",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/borussia_dortmund.png"
+  },
+  {
+    "id": "borussia_monchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/borussia_monchengladbach.png"
+  },
+  {
+    "id": "eintracht_frankfurt",
+    "name": "Eintracht Frankfurt",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/eintracht_frankfurt.png"
+  },
+  {
+    "id": "fc_augsburg",
+    "name": "FC Augsburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_augsburg.png"
+  },
+  {
+    "id": "fc_schalke_04",
+    "name": "FC Schalke 04",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/fc_schalke_04.png"
+  },
+  {
+    "id": "hamburger_sv",
+    "name": "Hamburger SV",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4,
+    "logo": "logos/hamburger_sv.png"
+  },
+  {
+    "id": "rb_leipzig",
+    "name": "RB Leipzig",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_champions_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/rb_leipzig.png"
+  },
+  {
+    "id": "sc_freiburg",
+    "name": "SC Freiburg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/sc_freiburg.png"
+  },
+  {
+    "id": "sc_paderborn_07",
+    "name": "SC Paderborn 07",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 3.5,
+    "logo": "logos/sc_paderborn_07.png"
+  },
+  {
+    "id": "sv_07_elversberg",
+    "name": "SV 07 Elversberg",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 3.5,
+    "logo": "logos/sv_07_elversberg.png"
+  },
+  {
+    "id": "sv_werder_bremen",
+    "name": "SV Werder Bremen",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga"
+    ],
+    "stars": 4.5,
+    "logo": "logos/sv_werder_bremen.png"
+  },
+  {
+    "id": "tsg_1899_hoffenheim",
+    "name": "TSG 1899 Hoffenheim",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_europa_league"
+    ],
+    "stars": 4,
+    "logo": "logos/tsg_1899_hoffenheim.png"
+  },
+  {
+    "id": "vfb_stuttgart",
+    "name": "VfB Stuttgart",
+    "type": "club",
+    "country": "Germany",
+    "competitions": [
+      "bundesliga",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/vfb_stuttgart.png"
+  },
+  {
+    "id": "ae_kifisia",
+    "name": "AE Kifisia",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 1,
+    "logo": "logos/ae_kifisia.png"
+  },
+  {
+    "id": "aek_athens",
+    "name": "AEK Athens",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/aek_athens.png"
+  },
+  {
+    "id": "aris_thessaloniki",
+    "name": "Aris Thessaloniki",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 3,
+    "logo": "logos/aris_thessaloniki.png"
+  },
+  {
+    "id": "asteras_aktor",
+    "name": "Asteras Aktor",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 1,
+    "logo": "logos/asteras_aktor.png"
+  },
+  {
+    "id": "atromitos_athens",
+    "name": "Atromitos Athens",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 2,
+    "logo": "logos/atromitos_athens.png"
+  },
+  {
+    "id": "iraklis_thessaloniki",
+    "name": "Iraklis Thessaloniki",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 2,
+    "logo": "logos/iraklis_thessaloniki.png"
+  },
+  {
+    "id": "kalamata_fc",
+    "name": "Kalamata FC",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 1,
+    "logo": "logos/kalamata_fc.png"
+  },
+  {
+    "id": "levadiakos",
+    "name": "Levadiakos",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 2,
+    "logo": "logos/levadiakos.png"
+  },
+  {
+    "id": "ofi_crete",
+    "name": "OFI Crete",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1",
+      "uefa_europa_league"
+    ],
+    "stars": 2,
+    "logo": "logos/ofi_crete.png"
+  },
+  {
+    "id": "olympiacos_piraeus",
+    "name": "Olympiacos Piraeus",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1",
+      "uefa_champions_league",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/olympiacos_piraeus.png"
+  },
+  {
+    "id": "paok",
+    "name": "PAOK Thessaloniki",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/paok.png"
+  },
+  {
+    "id": "panathinaikos",
+    "name": "Panathinaikos",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/panathinaikos.png"
+  },
+  {
+    "id": "panetolikos",
+    "name": "Panetolikos",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 1,
+    "logo": "logos/panetolikos.png"
+  },
+  {
+    "id": "volos_nfc",
+    "name": "Volos NFC",
+    "type": "club",
+    "country": "Greece",
+    "competitions": [
+      "super_league_1"
+    ],
+    "stars": 1,
+    "logo": "logos/volos_nfc.png"
+  },
+  {
+    "id": "beitar_jerusalem",
+    "name": "Beitar Jerusalem",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 3,
+    "logo": "logos/beitar_jerusalem.png"
+  },
+  {
+    "id": "hapoel_beer_sheva",
+    "name": "Hapoel Beer Sheva",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/hapoel_beer_sheva.png"
+  },
+  {
+    "id": "hapoel_haifa",
+    "name": "Hapoel Haifa",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 2,
+    "logo": "logos/hapoel_haifa.png"
+  },
+  {
+    "id": "hapoel_jerusalem",
+    "name": "Hapoel Jerusalem",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/hapoel_jerusalem.png"
+  },
+  {
+    "id": "hapoel_petah_tikva",
+    "name": "Hapoel Petah Tikva",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/hapoel_petah_tikva.png"
+  },
+  {
+    "id": "hapoel_ramat_gan",
+    "name": "Hapoel Ramat Gan",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/hapoel_ramat_gan.png"
+  },
+  {
+    "id": "hapoel_tel_aviv",
+    "name": "Hapoel Tel Aviv",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 2,
+    "logo": "logos/hapoel_tel_aviv.png"
+  },
+  {
+    "id": "ihud_bnei_sakhnin",
+    "name": "Ihud Bnei Sakhnin",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/ihud_bnei_sakhnin.png"
+  },
+  {
+    "id": "ironi_kiryat_shmona",
+    "name": "Ironi Kiryat Shmona",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/ironi_kiryat_shmona.png"
+  },
+  {
+    "id": "ironi_tiberias",
+    "name": "Ironi Tiberias",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/ironi_tiberias.png"
+  },
+  {
+    "id": "maccabi_haifa",
+    "name": "Maccabi Haifa",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 3,
+    "logo": "logos/maccabi_haifa.png"
+  },
+  {
+    "id": "maccabi_netanya",
+    "name": "Maccabi Netanya",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 2,
+    "logo": "logos/maccabi_netanya.png"
+  },
+  {
+    "id": "maccabi_petah_tikva",
+    "name": "Maccabi Petah Tikva",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al"
+    ],
+    "stars": 1,
+    "logo": "logos/maccabi_petah_tikva.png"
+  },
+  {
+    "id": "maccabi_tel_aviv",
+    "name": "Maccabi Tel Aviv",
+    "type": "club",
+    "country": "Israel",
+    "competitions": [
+      "ligat_ha_al",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 3,
+    "logo": "logos/maccabi_tel_aviv.png"
+  },
+  {
+    "id": "ac_milan",
+    "name": "AC Milan",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "uefa_europa_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/ac_milan.png"
+  },
+  {
+    "id": "ac_monza",
+    "name": "AC Monza",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/ac_monza.png"
+  },
+  {
+    "id": "acf_fiorentina",
+    "name": "ACF Fiorentina",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/acf_fiorentina.png"
+  },
+  {
+    "id": "roma",
+    "name": "AS Roma",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/roma.png"
+  },
+  {
+    "id": "atalanta_bc",
+    "name": "Atalanta BC",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/atalanta_bc.png"
+  },
+  {
+    "id": "bologna_fc_1909",
+    "name": "Bologna FC 1909",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/bologna_fc_1909.png"
+  },
+  {
+    "id": "cagliari_calcio",
+    "name": "Cagliari Calcio",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 3.5,
+    "logo": "logos/cagliari_calcio.png"
+  },
+  {
+    "id": "como",
+    "name": "Como 1907",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "uefa_champions_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/como.png"
+  },
+  {
+    "id": "frosinone_calcio",
+    "name": "Frosinone Calcio",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 3.5,
+    "logo": "logos/frosinone_calcio.png"
+  },
+  {
+    "id": "genoa_cfc",
+    "name": "Genoa CFC",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/genoa_cfc.png"
+  },
+  {
+    "id": "inter",
+    "name": "Inter Milan",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/inter.png"
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus FC",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/juventus.png"
+  },
+  {
+    "id": "parma_calcio_1913",
+    "name": "Parma Calcio 1913",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/parma_calcio_1913.png"
+  },
+  {
+    "id": "ss_lazio",
+    "name": "SS Lazio",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/ss_lazio.png"
+  },
+  {
+    "id": "ssc_napoli",
+    "name": "SSC Napoli",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/ssc_napoli.png"
+  },
+  {
+    "id": "torino_fc",
+    "name": "Torino FC",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/torino_fc.png"
+  },
+  {
+    "id": "us_lecce",
+    "name": "US Lecce",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4.5,
+    "logo": "logos/us_lecce.png"
+  },
+  {
+    "id": "us_sassuolo",
+    "name": "US Sassuolo",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4.5,
+    "logo": "logos/us_sassuolo.png"
+  },
+  {
+    "id": "udinese_calcio",
+    "name": "Udinese Calcio",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 4,
+    "logo": "logos/udinese_calcio.png"
+  },
+  {
+    "id": "venezia_fc",
+    "name": "Venezia FC",
+    "type": "club",
+    "country": "Italy",
+    "competitions": [
+      "serie_a"
+    ],
+    "stars": 3.5,
+    "logo": "logos/venezia_fc.png"
+  },
+  {
+    "id": "ado_den_haag",
+    "name": "ADO Den Haag",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 1,
+    "logo": "logos/ado_den_haag.png"
+  },
+  {
+    "id": "az_alkmaar",
+    "name": "AZ Alkmaar",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "uefa_europa_league"
+    ],
+    "stars": 4,
+    "logo": "logos/az_alkmaar.png"
+  },
+  {
+    "id": "ajax_amsterdam",
+    "name": "Ajax Amsterdam",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/ajax_amsterdam.png"
+  },
+  {
+    "id": "excelsior_rotterdam",
+    "name": "Excelsior Rotterdam",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 2,
+    "logo": "logos/excelsior_rotterdam.png"
+  },
+  {
+    "id": "fc_groningen",
+    "name": "FC Groningen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_groningen.png"
+  },
+  {
+    "id": "twente",
+    "name": "FC Twente Enschede",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "uefa_europa_league"
+    ],
+    "stars": 4,
+    "logo": "logos/twente.png"
+  },
+  {
+    "id": "fc_utrecht",
+    "name": "FC Utrecht",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "UEFA Europa League"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_utrecht.png"
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord Rotterdam",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/feyenoord.png"
+  },
+  {
+    "id": "fortuna_sittard",
+    "name": "Fortuna Sittard",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": "logos/fortuna_sittard.png"
+  },
+  {
+    "id": "go_ahead_eagles",
+    "name": "Go Ahead Eagles",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "UEFA Europa League"
+    ],
+    "stars": 3,
+    "logo": "logos/go_ahead_eagles.png"
+  },
+  {
+    "id": "nec_nijmegen",
+    "name": "NEC Nijmegen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/nec_nijmegen.png"
+  },
+  {
+    "id": "pec_zwolle",
+    "name": "PEC Zwolle",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": "logos/pec_zwolle.png"
+  },
+  {
+    "id": "psv",
+    "name": "PSV Eindhoven",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/psv.png"
+  },
+  {
+    "id": "sc_cambuur_leeuwarden",
+    "name": "SC Cambuur Leeuwarden",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 1,
+    "logo": "logos/sc_cambuur_leeuwarden.png"
+  },
+  {
+    "id": "sc_heerenveen",
+    "name": "SC Heerenveen",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": "logos/sc_heerenveen.png"
+  },
+  {
+    "id": "sc_telstar",
+    "name": "SC Telstar",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 2,
+    "logo": "logos/sc_telstar.png"
+  },
+  {
+    "id": "sparta_rotterdam",
+    "name": "Sparta Rotterdam",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 3,
+    "logo": "logos/sparta_rotterdam.png"
+  },
+  {
+    "id": "willem_ii_tilburg",
+    "name": "Willem II Tilburg",
+    "type": "club",
+    "country": "Netherlands",
+    "competitions": [
+      "eredivisie"
+    ],
+    "stars": 1,
+    "logo": "logos/willem_ii_tilburg.png"
+  },
+  {
+    "id": "aalesunds_fk",
+    "name": "Aalesunds FK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": "logos/aalesunds_fk.png"
+  },
+  {
+    "id": "bod_glimt",
+    "name": "FK BodøGlimt",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/bod_glimt.png"
+  },
+  {
+    "id": "fredrikstad_fk",
+    "name": "Fredrikstad FK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/fredrikstad_fk.png"
+  },
+  {
+    "id": "hamarkameratene",
+    "name": "Hamarkameratene",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/hamarkameratene.png"
+  },
+  {
+    "id": "ik_start",
+    "name": "IK Start",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": "logos/ik_start.png"
+  },
+  {
+    "id": "kfum_kameratene_oslo",
+    "name": "KFUM-Kameratene Oslo",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 3.5,
+    "logo": "logos/kfum_kameratene_oslo.png"
+  },
+  {
+    "id": "kristiansund_bk",
+    "name": "Kristiansund BK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/kristiansund_bk.png"
+  },
+  {
+    "id": "lillestrm_sk",
+    "name": "Lillestrøm SK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 1,
+    "logo": "logos/lillestrm_sk.png"
+  },
+  {
+    "id": "molde_fk",
+    "name": "Molde FK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 3.5,
+    "logo": "logos/molde_fk.png"
+  },
+  {
+    "id": "rosenborg_bk",
+    "name": "Rosenborg BK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 3.5,
+    "logo": "logos/rosenborg_bk.png"
+  },
+  {
+    "id": "sk_brann",
+    "name": "SK Brann",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/sk_brann.png"
+  },
+  {
+    "id": "sandefjord_fotball",
+    "name": "Sandefjord Fotball",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/sandefjord_fotball.png"
+  },
+  {
+    "id": "sarpsborg_08_ff",
+    "name": "Sarpsborg 08 FF",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/sarpsborg_08_ff.png"
+  },
+  {
+    "id": "troms_il",
+    "name": "Tromsø IL",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 2.5,
+    "logo": "logos/troms_il.png"
+  },
+  {
+    "id": "viking",
+    "name": "Viking FK",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/viking.png"
+  },
+  {
+    "id": "valerenga_fotball_elite",
+    "name": "Vålerenga Fotball Elite",
+    "type": "club",
+    "country": "Norway",
+    "competitions": [
+      "eliteserien"
+    ],
+    "stars": 3,
+    "logo": "logos/valerenga_fotball_elite.png"
+  },
+  {
+    "id": "cracovia",
+    "name": "Cracovia",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3.5,
+    "logo": "logos/cracovia.png"
+  },
+  {
+    "id": "gks_katowice",
+    "name": "GKS Katowice",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2.5,
+    "logo": "logos/gks_katowice.png"
+  },
+  {
+    "id": "gornik_zabrze",
+    "name": "Górnik Zabrze",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa",
+      "uefa_champions_league",
+      "uefa_europa_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/gornik_zabrze.png"
+  },
+  {
+    "id": "jagiellonia_bialystok",
+    "name": "Jagiellonia Bialystok",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": "logos/jagiellonia_bialystok.png"
+  },
+  {
+    "id": "korona_kielce",
+    "name": "Korona Kielce",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": "logos/korona_kielce.png"
+  },
+  {
+    "id": "lech_poznan",
+    "name": "Lech Poznan",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa",
+      "uefa_champions_league",
+      "uefa_europa_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/lech_poznan.png"
+  },
+  {
+    "id": "legia_warszawa",
+    "name": "Legia Warszawa",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": "logos/legia_warszawa.png"
+  },
+  {
+    "id": "motor_lublin",
+    "name": "Motor Lublin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3,
+    "logo": "logos/motor_lublin.png"
+  },
+  {
+    "id": "piast_gliwice",
+    "name": "Piast Gliwice",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2.5,
+    "logo": "logos/piast_gliwice.png"
+  },
+  {
+    "id": "pogon_szczecin",
+    "name": "Pogon Szczecin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3.5,
+    "logo": "logos/pogon_szczecin.png"
+  },
+  {
+    "id": "radomiak_radom",
+    "name": "Radomiak Radom",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": "logos/radomiak_radom.png"
+  },
+  {
+    "id": "rakow_czestochowa",
+    "name": "Raków Częstochowa",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 3.5,
+    "logo": "logos/rakow_czestochowa.png"
+  },
+  {
+    "id": "slask_wroclaw",
+    "name": "Slask Wroclaw",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 1,
+    "logo": "logos/slask_wroclaw.png"
+  },
+  {
+    "id": "widzew_lodz",
+    "name": "Widzew Lodz",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 1,
+    "logo": "logos/widzew_lodz.png"
+  },
+  {
+    "id": "wieczysta_krakow",
+    "name": "Wieczysta Krakow",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 1,
+    "logo": "logos/wieczysta_krakow.png"
+  },
+  {
+    "id": "wisla_krakow",
+    "name": "Wisla Kraków",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 1,
+    "logo": "logos/wisla_krakow.png"
+  },
+  {
+    "id": "wisla_plock",
+    "name": "Wisla Plock",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 1,
+    "logo": "logos/wisla_plock.png"
+  },
+  {
+    "id": "zaglebie_lubin",
+    "name": "Zaglebie Lubin",
+    "type": "club",
+    "country": "Poland",
+    "competitions": [
+      "pko_ekstraklasa"
+    ],
+    "stars": 2,
+    "logo": "logos/zaglebie_lubin.png"
+  },
+  {
+    "id": "academico_viseu_fc",
+    "name": "Académico Viseu FC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 2,
+    "logo": "logos/academico_viseu_fc.png"
+  },
+  {
+    "id": "cd_nacional",
+    "name": "CD Nacional",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/cd_nacional.png"
+  },
+  {
+    "id": "cd_santa_clara",
+    "name": "CD Santa Clara",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 2,
+    "logo": "logos/cd_santa_clara.png"
+  },
+  {
+    "id": "cf_estrela_amadora",
+    "name": "CF Estrela Amadora",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/cf_estrela_amadora.png"
+  },
+  {
+    "id": "cs_maritimo",
+    "name": "CS Marítimo",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 2,
+    "logo": "logos/cs_maritimo.png"
+  },
+  {
+    "id": "casa_pia_ac",
+    "name": "Casa Pia AC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/casa_pia_ac.png"
+  },
+  {
+    "id": "fc_alverca",
+    "name": "FC Alverca",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_alverca.png"
+  },
+  {
+    "id": "fc_arouca",
+    "name": "FC Arouca",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_arouca.png"
+  },
+  {
+    "id": "fc_famalicao",
+    "name": "FC Famalicão",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_famalicao.png"
+  },
+  {
+    "id": "fc_porto",
+    "name": "FC Porto",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/fc_porto.png"
+  },
+  {
+    "id": "gd_estoril_praia",
+    "name": "GD Estoril Praia",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 2,
+    "logo": "logos/gd_estoril_praia.png"
+  },
+  {
+    "id": "gil_vicente_fc",
+    "name": "Gil Vicente FC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": "logos/gil_vicente_fc.png"
+  },
+  {
+    "id": "moreirense_fc",
+    "name": "Moreirense FC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 4,
+    "logo": "logos/moreirense_fc.png"
+  },
+  {
+    "id": "rio_ave_fc",
+    "name": "Rio Ave FC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 3.5,
+    "logo": "logos/rio_ave_fc.png"
+  },
+  {
+    "id": "sc_braga",
+    "name": "SC Braga",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/sc_braga.png"
+  },
+  {
+    "id": "sl_benfica",
+    "name": "SL Benfica",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal",
+      "uefa_europa_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/sl_benfica.png"
+  },
+  {
+    "id": "sporting_cp",
+    "name": "Sporting CP",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/sporting_cp.png"
+  },
+  {
+    "id": "vitoria_guimaraes_sc",
+    "name": "Vitória Guimarães SC",
+    "type": "club",
+    "country": "Portugal",
+    "competitions": [
+      "liga_portugal"
+    ],
+    "stars": 2,
+    "logo": "logos/vitoria_guimaraes_sc.png"
+  },
+  {
+    "id": "acsc_fc_arges",
+    "name": "ACSC FC Arges",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/acsc_fc_arges.png"
+  },
+  {
+    "id": "cfr_cluj",
+    "name": "CFR Cluj",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": "logos/cfr_cluj.png"
+  },
+  {
+    "id": "corvinul_hunedoara",
+    "name": "Corvinul Hunedoara",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/corvinul_hunedoara.png"
+  },
+  {
+    "id": "fc_botosani",
+    "name": "FC Botosani",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_botosani.png"
+  },
+  {
+    "id": "fc_dinamo_1948",
+    "name": "FC Dinamo 1948",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_dinamo_1948.png"
+  },
+  {
+    "id": "fc_rapid_1923",
+    "name": "FC Rapid 1923",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_rapid_1923.png"
+  },
+  {
+    "id": "fc_universitatea_cluj",
+    "name": "FC Universitatea Cluj",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga",
+      "uefa_europa_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_universitatea_cluj.png"
+  },
+  {
+    "id": "fc_voluntari",
+    "name": "FC Voluntari",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_voluntari.png"
+  },
+  {
+    "id": "fcsb",
+    "name": "FCSB",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fcsb.png"
+  },
+  {
+    "id": "fcv_farul_constanta",
+    "name": "FCV Farul Constanta",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/fcv_farul_constanta.png"
+  },
+  {
+    "id": "fk_csikszereda_miercurea_ciuc",
+    "name": "FK Csikszereda Miercurea Ciuc",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_csikszereda_miercurea_ciuc.png"
+  },
+  {
+    "id": "petrolul_ploiesti",
+    "name": "Petrolul Ploiesti",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": "logos/petrolul_ploiesti.png"
+  },
+  {
+    "id": "sc_otelul_galati",
+    "name": "SC Otelul Galati",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2.5,
+    "logo": "logos/sc_otelul_galati.png"
+  },
+  {
+    "id": "sepsi_osk_sf_gheorghe",
+    "name": "Sepsi OSK Sf. Gheorghe",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 2,
+    "logo": "logos/sepsi_osk_sf_gheorghe.png"
+  },
+  {
+    "id": "uta_arad",
+    "name": "UTA Arad",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga"
+    ],
+    "stars": 3,
+    "logo": "logos/uta_arad.png"
+  },
+  {
+    "id": "universitatea_craiova",
+    "name": "Universitatea Craiova",
+    "type": "club",
+    "country": "Romania",
+    "competitions": [
+      "superliga",
+      "uefa_champions_league",
+      "uefa_europa_league"
+    ],
+    "stars": 3,
+    "logo": "logos/universitatea_craiova.png"
+  },
+  {
+    "id": "akhmat_grozny",
+    "name": "Akhmat Grozny",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/akhmat_grozny.png"
+  },
+  {
+    "id": "akron_tolyatti",
+    "name": "Akron Tolyatti",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/akron_tolyatti.png"
+  },
+  {
+    "id": "baltika_kaliningrad",
+    "name": "Baltika Kaliningrad",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/baltika_kaliningrad.png"
+  },
+  {
+    "id": "cska_moscow",
+    "name": "CSKA Moscow",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/cska_moscow.png"
+  },
+  {
+    "id": "dinamo_makhachkala",
+    "name": "Dinamo Makhachkala",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/dinamo_makhachkala.png"
+  },
+  {
+    "id": "dynamo_moscow",
+    "name": "Dynamo Moscow",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/dynamo_moscow.png"
+  },
+  {
+    "id": "fc_krasnodar",
+    "name": "FC Krasnodar",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_krasnodar.png"
+  },
+  {
+    "id": "fc_orenburg",
+    "name": "FC Orenburg",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_orenburg.png"
+  },
+  {
+    "id": "fc_rostov",
+    "name": "FC Rostov",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/fc_rostov.png"
+  },
+  {
+    "id": "fakel_voronezh",
+    "name": "Fakel Voronezh",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/fakel_voronezh.png"
+  },
+  {
+    "id": "krylya_sovetov_samara",
+    "name": "Krylya Sovetov Samara",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/krylya_sovetov_samara.png"
+  },
+  {
+    "id": "lokomotiv_moscow",
+    "name": "Lokomotiv Moscow",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/lokomotiv_moscow.png"
+  },
+  {
+    "id": "rodina_moscow",
+    "name": "Rodina Moscow",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/rodina_moscow.png"
+  },
+  {
+    "id": "rubin_kazan",
+    "name": "Rubin Kazan",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/rubin_kazan.png"
+  },
+  {
+    "id": "spartak_moscow",
+    "name": "Spartak Moscow",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/spartak_moscow.png"
+  },
+  {
+    "id": "zenit_st_petersburg",
+    "name": "Zenit St. Petersburg",
+    "type": "club",
+    "country": "Russia",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 4,
+    "logo": "logos/zenit_st_petersburg.png"
+  },
+  {
+    "id": "aberdeen_fc",
+    "name": "Aberdeen FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 3.5,
+    "logo": "logos/aberdeen_fc.png"
+  },
+  {
+    "id": "celtic_fc",
+    "name": "Celtic FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/celtic_fc.png"
+  },
+  {
+    "id": "dundee_fc",
+    "name": "Dundee FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 3,
+    "logo": "logos/dundee_fc.png"
+  },
+  {
+    "id": "dundee_united_fc",
+    "name": "Dundee United FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 2.5,
+    "logo": "logos/dundee_united_fc.png"
+  },
+  {
+    "id": "falkirk_fc",
+    "name": "Falkirk FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 2.5,
+    "logo": "logos/falkirk_fc.png"
+  },
+  {
+    "id": "heart_of_midlothian_fc",
+    "name": "Heart of Midlothian FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 4,
+    "logo": "logos/heart_of_midlothian_fc.png"
+  },
+  {
+    "id": "hibernian_fc",
+    "name": "Hibernian FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 3,
+    "logo": "logos/hibernian_fc.png"
+  },
+  {
+    "id": "kilmarnock_fc",
+    "name": "Kilmarnock FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 2.5,
+    "logo": "logos/kilmarnock_fc.png"
+  },
+  {
+    "id": "motherwell_fc",
+    "name": "Motherwell FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 2.5,
+    "logo": "logos/motherwell_fc.png"
+  },
+  {
+    "id": "rangers",
+    "name": "Rangers FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/rangers.png"
+  },
+  {
+    "id": "st_johnstone_fc",
+    "name": "St. Johnstone FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 1,
+    "logo": "logos/st_johnstone_fc.png"
+  },
+  {
+    "id": "st_mirren_fc",
+    "name": "St. Mirren FC",
+    "type": "club",
+    "country": "Scotland",
+    "competitions": [
+      "cinch_premiership"
+    ],
+    "stars": 2.5,
+    "logo": "logos/st_mirren_fc.png"
+  },
+  {
+    "id": "fk_cukaricki",
+    "name": "FK Cukaricki",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_cukaricki.png"
+  },
+  {
+    "id": "fk_imt_belgrad",
+    "name": "FK IMT Belgrad",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_imt_belgrad.png"
+  },
+  {
+    "id": "fk_macva_sabac",
+    "name": "FK Macva Sabac",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 1,
+    "logo": "logos/fk_macva_sabac.png"
+  },
+  {
+    "id": "fk_mladost_lucani",
+    "name": "FK Mladost Lucani",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 1,
+    "logo": "logos/fk_mladost_lucani.png"
+  },
+  {
+    "id": "fk_novi_pazar",
+    "name": "FK Novi Pazar",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_novi_pazar.png"
+  },
+  {
+    "id": "fk_partizan_belgrade",
+    "name": "FK Partizan Belgrade",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 3,
+    "logo": "logos/fk_partizan_belgrade.png"
+  },
+  {
+    "id": "fk_radnicki_1923_kragujevac",
+    "name": "FK Radnicki 1923 Kragujevac",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_radnicki_1923_kragujevac.png"
+  },
+  {
+    "id": "fk_radnicki_nis",
+    "name": "FK Radnicki Nis",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 1,
+    "logo": "logos/fk_radnicki_nis.png"
+  },
+  {
+    "id": "fk_radnik_surdulica",
+    "name": "FK Radnik Surdulica",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 1,
+    "logo": "logos/fk_radnik_surdulica.png"
+  },
+  {
+    "id": "fk_vojvodina_novi_sad",
+    "name": "FK Vojvodina Novi Sad",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 3,
+    "logo": "logos/fk_vojvodina_novi_sad.png"
+  },
+  {
+    "id": "fk_zeleznicar_pancevo",
+    "name": "FK Zeleznicar Pancevo",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/fk_zeleznicar_pancevo.png"
+  },
+  {
+    "id": "fk_zemun",
+    "name": "FK Zemun",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 1,
+    "logo": "logos/fk_zemun.png"
+  },
+  {
+    "id": "ofk_beograd",
+    "name": "OFK Beograd",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije"
+    ],
+    "stars": 2,
+    "logo": "logos/ofk_beograd.png"
+  },
+  {
+    "id": "red_star_belgrade",
+    "name": "Red Star Belgrade",
+    "type": "club",
+    "country": "Serbia",
+    "competitions": [
+      "super_liga_srbije",
+      "uefa_champions_league",
+      "uefa_europa_league",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/red_star_belgrade.png"
+  },
+  {
+    "id": "athletic_bilbao",
+    "name": "Athletic Bilbao",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/athletic_bilbao.png"
+  },
+  {
+    "id": "atletico_de_madrid",
+    "name": "Atlético de Madrid",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/atletico_de_madrid.png"
+  },
+  {
+    "id": "ca_osasuna",
+    "name": "CA Osasuna",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4.5,
+    "logo": "logos/ca_osasuna.png"
+  },
+  {
+    "id": "celta_de_vigo",
+    "name": "Celta de Vigo",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "UEFA Europa League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/celta_de_vigo.png"
+  },
+  {
+    "id": "deportivo_a_coruna",
+    "name": "Deportivo A Coruña",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 3,
+    "logo": "logos/deportivo_a_coruna.png"
+  },
+  {
+    "id": "deportivo_alaves",
+    "name": "Deportivo Alavés",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/deportivo_alaves.png"
+  },
+  {
+    "id": "elche_cf",
+    "name": "Elche CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/elche_cf.png"
+  },
+  {
+    "id": "fc_barcelona",
+    "name": "FC Barcelona",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/fc_barcelona.png"
+  },
+  {
+    "id": "getafe_cf",
+    "name": "Getafe CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4.5,
+    "logo": "logos/getafe_cf.png"
+  },
+  {
+    "id": "levante_ud",
+    "name": "Levante UD",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/levante_ud.png"
+  },
+  {
+    "id": "malaga_cf",
+    "name": "Málaga CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/malaga_cf.png"
+  },
+  {
+    "id": "rcd_espanyol_barcelona",
+    "name": "RCD Espanyol Barcelona",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4.5,
+    "logo": "logos/rcd_espanyol_barcelona.png"
+  },
+  {
+    "id": "racing_santander",
+    "name": "Racing Santander",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/racing_santander.png"
+  },
+  {
+    "id": "rayo_vallecano",
+    "name": "Rayo Vallecano",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4.5,
+    "logo": "logos/rayo_vallecano.png"
+  },
+  {
+    "id": "real_betis_balompie",
+    "name": "Real Betis Balompié",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/real_betis_balompie.png"
+  },
+  {
+    "id": "real_madrid",
+    "name": "Real Madrid",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 5,
+    "logo": "logos/real_madrid.png"
+  },
+  {
+    "id": "real_sociedad",
+    "name": "Real Sociedad",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "uefa_europa_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/real_sociedad.png"
+  },
+  {
+    "id": "sevilla_fc",
+    "name": "Sevilla FC",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4.5,
+    "logo": "logos/sevilla_fc.png"
+  },
+  {
+    "id": "valencia_cf",
+    "name": "Valencia CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports"
+    ],
+    "stars": 4,
+    "logo": "logos/valencia_cf.png"
+  },
+  {
+    "id": "villarreal_cf",
+    "name": "Villarreal CF",
+    "type": "club",
+    "country": "Spain",
+    "competitions": [
+      "laliga_ea_sports",
+      "UEFA Champions League"
+    ],
+    "stars": 4.5,
+    "logo": "logos/villarreal_cf.png"
+  },
+  {
+    "id": "aik",
+    "name": "AIK",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3,
+    "logo": "logos/aik.png"
+  },
+  {
+    "id": "bk_hacken",
+    "name": "BK Häcken",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/bk_hacken.png"
+  },
+  {
+    "id": "degerfors_if",
+    "name": "Degerfors IF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2.5,
+    "logo": "logos/degerfors_if.png"
+  },
+  {
+    "id": "djurgardens_if",
+    "name": "Djurgårdens IF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/djurgardens_if.png"
+  },
+  {
+    "id": "gais",
+    "name": "GAIS",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/gais.png"
+  },
+  {
+    "id": "halmstads_bk",
+    "name": "Halmstads BK",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2,
+    "logo": "logos/halmstads_bk.png"
+  },
+  {
+    "id": "hammarby_if",
+    "name": "Hammarby IF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan",
+      "uefa_europa_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/hammarby_if.png"
+  },
+  {
+    "id": "if_brommapojkarna",
+    "name": "IF Brommapojkarna",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2.5,
+    "logo": "logos/if_brommapojkarna.png"
+  },
+  {
+    "id": "if_elfsborg",
+    "name": "IF Elfsborg",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/if_elfsborg.png"
+  },
+  {
+    "id": "ifk_goteborg",
+    "name": "IFK Göteborg",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/ifk_goteborg.png"
+  },
+  {
+    "id": "ik_sirius",
+    "name": "IK Sirius",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 2.5,
+    "logo": "logos/ik_sirius.png"
+  },
+  {
+    "id": "kalmar_ff",
+    "name": "Kalmar FF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 1,
+    "logo": "logos/kalmar_ff.png"
+  },
+  {
+    "id": "malmo_ff",
+    "name": "Malmö FF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/malmo_ff.png"
+  },
+  {
+    "id": "mjallby_aif",
+    "name": "Mjällby AIF",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 3.5,
+    "logo": "logos/mjallby_aif.png"
+  },
+  {
+    "id": "vasteras_sk",
+    "name": "Västerås SK",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 1,
+    "logo": "logos/vasteras_sk.png"
+  },
+  {
+    "id": "orgryte_is",
+    "name": "Örgryte IS",
+    "type": "club",
+    "country": "Sweden",
+    "competitions": [
+      "allsvenskan"
+    ],
+    "stars": 1,
+    "logo": "logos/orgryte_is.png"
+  },
+  {
+    "id": "bsc_young_boys",
+    "name": "BSC Young Boys",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league",
+      "UEFA Europa League"
+    ],
+    "stars": 3.5,
+    "logo": "logos/bsc_young_boys.png"
+  },
+  {
+    "id": "fc_basel_1893",
+    "name": "FC Basel 1893",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/fc_basel_1893.png"
+  },
+  {
+    "id": "fc_lausanne_sport",
+    "name": "FC Lausanne-Sport",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_lausanne_sport.png"
+  },
+  {
+    "id": "fc_lugano",
+    "name": "FC Lugano",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_lugano.png"
+  },
+  {
+    "id": "fc_luzern",
+    "name": "FC Luzern",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_luzern.png"
+  },
+  {
+    "id": "fc_sion",
+    "name": "FC Sion",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3,
+    "logo": "logos/fc_sion.png"
+  },
+  {
+    "id": "fc_st_gallen_1879",
+    "name": "FC St. Gallen 1879",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_st_gallen_1879.png"
+  },
+  {
+    "id": "fc_thun",
+    "name": "FC Thun",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_thun.png"
+  },
+  {
+    "id": "fc_vaduz",
+    "name": "FC Vaduz",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_vaduz.png"
+  },
+  {
+    "id": "fc_zurich",
+    "name": "FC Zürich",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/fc_zurich.png"
+  },
+  {
+    "id": "grasshopper_club_zurich",
+    "name": "Grasshopper Club Zurich",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/grasshopper_club_zurich.png"
+  },
+  {
+    "id": "servette_fc",
+    "name": "Servette FC",
+    "type": "club",
+    "country": "Switzerland",
+    "competitions": [
+      "credit_suisse_super_league"
+    ],
+    "stars": 3.5,
+    "logo": "logos/servette_fc.png"
+  },
+  {
+    "id": "alanyaspor",
+    "name": "Alanyaspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3,
+    "logo": "logos/alanyaspor.png"
+  },
+  {
+    "id": "amed_sk",
+    "name": "Amed SK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 2,
+    "logo": "logos/amed_sk.png"
+  },
+  {
+    "id": "basaksehir_fk",
+    "name": "Basaksehir FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/basaksehir_fk.png"
+  },
+  {
+    "id": "besiktas_jk",
+    "name": "Besiktas JK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3,
+    "logo": "logos/besiktas_jk.png"
+  },
+  {
+    "id": "caykur_rizespor",
+    "name": "Caykur Rizespor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/caykur_rizespor.png"
+  },
+  {
+    "id": "corum_fk",
+    "name": "Corum FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 2,
+    "logo": "logos/corum_fk.png"
+  },
+  {
+    "id": "erzurumspor_fk",
+    "name": "Erzurumspor FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 1,
+    "logo": "logos/erzurumspor_fk.png"
+  },
+  {
+    "id": "eyupspor",
+    "name": "Eyüpspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 4,
+    "logo": "logos/eyupspor.png"
+  },
+  {
+    "id": "fenerbahce",
+    "name": "Fenerbahce",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig",
+      "uefa_champions_league",
+      "UEFA Europa League"
+    ],
+    "stars": 4,
+    "logo": "logos/fenerbahce.png"
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig",
+      "uefa_champions_league",
+      "UEFA Champions League"
+    ],
+    "stars": 4,
+    "logo": "logos/galatasaray.png"
+  },
+  {
+    "id": "gaziantep_fk",
+    "name": "Gaziantep FK",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/gaziantep_fk.png"
+  },
+  {
+    "id": "genclerbirligi_ankara",
+    "name": "Genclerbirligi Ankara",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 2,
+    "logo": "logos/genclerbirligi_ankara.png"
+  },
+  {
+    "id": "goztepe",
+    "name": "Göztepe",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/goztepe.png"
+  },
+  {
+    "id": "kasimpasa",
+    "name": "Kasimpasa",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 2,
+    "logo": "logos/kasimpasa.png"
+  },
+  {
+    "id": "kocaelispor",
+    "name": "Kocaelispor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 4,
+    "logo": "logos/kocaelispor.png"
+  },
+  {
+    "id": "konyaspor",
+    "name": "Konyaspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/konyaspor.png"
+  },
+  {
+    "id": "samsunspor",
+    "name": "Samsunspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig"
+    ],
+    "stars": 3.5,
+    "logo": "logos/samsunspor.png"
+  },
+  {
+    "id": "trabzonspor",
+    "name": "Trabzonspor",
+    "type": "club",
+    "country": "Türkiye",
+    "competitions": [
+      "super_lig",
+      "uefa_europa_league"
+    ],
+    "stars": 4.5,
+    "logo": "logos/trabzonspor.png"
+  },
+  {
+    "id": "bukovyna_chernivtsi",
+    "name": "Bukovyna Chernivtsi",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/bukovyna_chernivtsi.png"
+  },
+  {
+    "id": "chornomorets_odesa",
+    "name": "Chornomorets Odesa",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/chornomorets_odesa.png"
+  },
+  {
+    "id": "dynamo_kyiv",
+    "name": "Dynamo Kyiv",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga",
+      "uefa_europa_league"
+    ],
+    "stars": 4,
+    "logo": "logos/dynamo_kyiv.png"
+  },
+  {
+    "id": "epicentr_kamyanets_podilskyi",
+    "name": "Epicentr Kamyanets-Podilskyi",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/epicentr_kamyanets_podilskyi.png"
+  },
+  {
+    "id": "fc_kharkiv",
+    "name": "FC Kharkiv",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_kharkiv.png"
+  },
+  {
+    "id": "fc_kudrivka",
+    "name": "FC Kudrivka",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/fc_kudrivka.png"
+  },
+  {
+    "id": "karpaty_lviv",
+    "name": "Karpaty Lviv",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/karpaty_lviv.png"
+  },
+  {
+    "id": "kolos_kovalivka",
+    "name": "Kolos Kovalivka",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/kolos_kovalivka.png"
+  },
+  {
+    "id": "kryvbas_kryvyi_rig",
+    "name": "Kryvbas Kryvyi Rig",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/kryvbas_kryvyi_rig.png"
+  },
+  {
+    "id": "lnz_cherkasy",
+    "name": "LNZ Cherkasy",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 2,
+    "logo": "logos/lnz_cherkasy.png"
+  },
+  {
+    "id": "livyi_bereg_kyiv",
+    "name": "Livyi Bereg Kyiv",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/livyi_bereg_kyiv.png"
+  },
+  {
+    "id": "nk_veres_rivne",
+    "name": "NK Veres Rivne",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/nk_veres_rivne.png"
+  },
+  {
+    "id": "obolon_kyiv",
+    "name": "Obolon Kyiv",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 1,
+    "logo": "logos/obolon_kyiv.png"
+  },
+  {
+    "id": "polissya_zhytomyr",
+    "name": "Polissya Zhytomyr",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/polissya_zhytomyr.png"
+  },
+  {
+    "id": "shakhtar_donetsk",
+    "name": "Shakhtar Donetsk",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga",
+      "uefa_champions_league"
+    ],
+    "stars": 4,
+    "logo": "logos/shakhtar_donetsk.png"
+  },
+  {
+    "id": "zorya_lugansk",
+    "name": "Zorya Lugansk",
+    "type": "club",
+    "country": "Ukraine",
+    "competitions": [
+      "premier_liga"
+    ],
+    "stars": 3,
+    "logo": "logos/zorya_lugansk.png"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "type": "national",
+    "country": "Argentina",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 5.0,
+    "logo": "logos/argentina.svg"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "type": "national",
+    "country": "Canada",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 4.0,
+    "logo": "logos/canada.svg"
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "type": "national",
+    "country": "Croatia",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.5,
+    "logo": "logos/croatia.svg"
+  },
+  {
+    "id": "czechia",
+    "name": "Czechia",
+    "type": "national",
+    "country": "Czechia",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.0,
+    "logo": "logos/czechia.svg"
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "type": "national",
+    "country": "Denmark",
+    "competitions": [],
+    "stars": null,
+    "logo": "logos/denmark.png"
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "type": "national",
+    "country": "England",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5.0,
+    "logo": "logos/england.svg"
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "type": "national",
+    "country": "Finland",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "type": "national",
+    "country": "France",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5.0,
+    "logo": "logos/france.svg"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "type": "national",
+    "country": "Germany",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5.0,
+    "logo": "logos/germany.svg"
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "type": "national",
+    "country": "Ghana",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.0,
+    "logo": "logos/ghana.svg"
+  },
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "type": "national",
+    "country": "Hungary",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "type": "national",
+    "country": "Iceland",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "type": "national",
+    "country": "Italy",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "type": "national",
+    "country": "Mexico",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 4.0,
+    "logo": "logos/mexico.svg"
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "type": "national",
+    "country": "Morocco",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.5,
+    "logo": "logos/morocco.svg"
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "type": "national",
+    "country": "Netherlands",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.5,
+    "logo": "logos/netherlands.svg"
+  },
+  {
+    "id": "northern_ireland",
+    "name": "Northern Ireland",
+    "type": "national",
+    "country": "Northern Ireland",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "type": "national",
+    "country": "Norway",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.5,
+    "logo": "logos/norway.svg"
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "type": "national",
+    "country": "Poland",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "type": "national",
+    "country": "Portugal",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5.0,
+    "logo": "logos/portugal.svg"
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "type": "national",
+    "country": "Qatar",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.0,
+    "logo": "logos/qatar.svg"
+  },
+  {
+    "id": "republic_of_ireland",
+    "name": "Republic of Ireland",
+    "type": "national",
+    "country": "Republic of Ireland",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "type": "national",
+    "country": "Romania",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "type": "national",
+    "country": "Scotland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.0,
+    "logo": "logos/scotland.svg"
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "type": "national",
+    "country": "Spain",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 5.0,
+    "logo": "logos/spain.svg"
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "type": "national",
+    "country": "Sweden",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.0,
+    "logo": "logos/sweden.svg"
+  },
+  {
+    "id": "ukraine",
+    "name": "Ukraine",
+    "type": "national",
+    "country": "Ukraine",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": null,
+    "logo": ""
+  },
+  {
+    "id": "united_states_of_america",
+    "name": "United States of America",
+    "type": "national",
+    "country": "United States of America",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 4.0,
+    "logo": "logos/united_states_of_america.svg"
+  },
+  {
+    "id": "wales",
+    "name": "Wales",
+    "type": "national",
+    "country": "Wales",
+    "competitions": [
+      "uefa_euro_championship"
+    ],
+    "stars": 4,
+    "logo": ""
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "type": "national",
+    "country": "Algeria",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.0,
+    "logo": "logos/algeria.svg"
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "type": "national",
+    "country": "Australia",
+    "competitions": [],
+    "stars": 3.5,
+    "logo": "logos/australia.svg"
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "type": "national",
+    "country": "Austria",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.0,
+    "logo": "logos/austria.svg"
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "type": "national",
+    "country": "Belgium",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.5,
+    "logo": "logos/belgium.svg"
+  },
+  {
+    "id": "bosnia_and_herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "type": "national",
+    "country": "Bosnia and Herzegovina",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.5,
+    "logo": "logos/bosnia_and_herzegovina.svg"
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "type": "national",
+    "country": "Brazil",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 5.0,
+    "logo": "logos/brazil.svg"
+  },
+  {
+    "id": "cape_verde",
+    "name": "Cape Verde",
+    "type": "national",
+    "country": "Cape Verde",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 3.0,
+    "logo": "logos/cape_verde.svg"
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "type": "national",
+    "country": "Colombia",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 4.0,
+    "logo": "logos/colombia.svg"
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "type": "national",
+    "country": "Curaçao",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 2.5,
+    "logo": "logos/curacao.svg"
+  },
+  {
+    "id": "dr_congo",
+    "name": "DR Congo",
+    "type": "national",
+    "country": "DR Congo",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.0,
+    "logo": "logos/dr_congo.svg"
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "type": "national",
+    "country": "Ecuador",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 4.0,
+    "logo": "logos/ecuador.svg"
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "type": "national",
+    "country": "Egypt",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 3.5,
+    "logo": "logos/egypt.svg"
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "type": "national",
+    "country": "Haiti",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.0,
+    "logo": "logos/haiti.svg"
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "type": "national",
+    "country": "Iran",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.5,
+    "logo": "logos/iran.svg"
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "type": "national",
+    "country": "Iraq",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 2.0,
+    "logo": "logos/iraq.svg"
+  },
+  {
+    "id": "ivory_coast",
+    "name": "Ivory Coast",
+    "type": "national",
+    "country": "Ivory Coast",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.0,
+    "logo": "logos/ivory_coast.svg"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "type": "national",
+    "country": "Japan",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 4.0,
+    "logo": "logos/japan.svg"
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "type": "national",
+    "country": "Jordan",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 2.0,
+    "logo": "logos/jordan.svg"
+  },
+  {
+    "id": "south_korea",
+    "name": "South Korea",
+    "type": "national",
+    "country": "South Korea",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 4.0,
+    "logo": "logos/south_korea.svg"
+  },
+  {
+    "id": "new_zealand",
+    "name": "New Zealand",
+    "type": "national",
+    "country": "New Zealand",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.0,
+    "logo": "logos/new_zealand.svg"
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "type": "national",
+    "country": "Panama",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 3.0,
+    "logo": "logos/panama.svg"
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "type": "national",
+    "country": "Paraguay",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 4.0,
+    "logo": "logos/paraguay.svg"
+  },
+  {
+    "id": "saudi_arabia",
+    "name": "Saudi Arabia",
+    "type": "national",
+    "country": "Saudi Arabia",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 3.5,
+    "logo": "logos/saudi_arabia.svg"
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "type": "national",
+    "country": "Senegal",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 4.5,
+    "logo": "logos/senegal.svg"
+  },
+  {
+    "id": "south_africa",
+    "name": "South Africa",
+    "type": "national",
+    "country": "South Africa",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 3.0,
+    "logo": "logos/south_africa.svg"
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "type": "national",
+    "country": "Switzerland",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.0,
+    "logo": "logos/switzerland.svg"
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "type": "national",
+    "country": "Tunisia",
+    "competitions": [
+      "fifa_world_cup",
+      "africa_cup_of_nations"
+    ],
+    "stars": 3.5,
+    "logo": "logos/tunisia.svg"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "type": "national",
+    "country": "Turkey",
+    "competitions": [
+      "fifa_world_cup",
+      "uefa_euro_championship"
+    ],
+    "stars": 4.5,
+    "logo": "logos/turkey.svg"
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "type": "national",
+    "country": "Uruguay",
+    "competitions": [
+      "fifa_world_cup",
+      "copa_america"
+    ],
+    "stars": 4.5,
+    "logo": "logos/uruguay.svg"
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "type": "national",
+    "country": "Uzbekistan",
+    "competitions": [
+      "fifa_world_cup"
+    ],
+    "stars": 2.5,
+    "logo": "logos/uzbekistan.svg"
+  }
+]
