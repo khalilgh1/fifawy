@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:video_player/video_player.dart';
 import 'services/team_data_service.dart';
 import 'services/random_match_service.dart';
 import 'theme/app_theme.dart';
@@ -47,12 +48,20 @@ class _FifawyAppState extends State<FifawyApp> {
   @override
   void initState() {
     super.initState();
-    _initFuture = widget.dataService.loadTeams();
+    _startLoading();
+  }
+
+  void _startLoading() {
+    _initFuture = Future.wait([
+      widget.dataService.loadTeams(),
+      // Ensure smooth splash presentation
+      Future.delayed(const Duration(milliseconds: 1800)),
+    ]);
   }
 
   void _retryLoading() {
     setState(() {
-      _initFuture = widget.dataService.loadTeams();
+      _startLoading();
     });
   }
 
@@ -66,7 +75,7 @@ class _FifawyAppState extends State<FifawyApp> {
         future: _initFuture,
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
-            return const _LoadingView();
+            return const LoadingAnimationView();
           }
 
           if (snapshot.hasError || !widget.dataService.isLoaded) {
@@ -88,8 +97,52 @@ class _FifawyAppState extends State<FifawyApp> {
   }
 }
 
-class _LoadingView extends StatelessWidget {
-  const _LoadingView();
+class LoadingAnimationView extends StatefulWidget {
+  final String videoAsset;
+
+  const LoadingAnimationView({
+    super.key,
+    this.videoAsset = 'data/loading.mp4',
+  });
+
+  @override
+  State<LoadingAnimationView> createState() => _LoadingAnimationViewState();
+}
+
+class _LoadingAnimationViewState extends State<LoadingAnimationView> {
+  VideoPlayerController? _controller;
+  bool _isInitialized = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _initVideo();
+  }
+
+  Future<void> _initVideo() async {
+    try {
+      final controller = VideoPlayerController.asset(widget.videoAsset);
+      _controller = controller;
+      await controller.initialize();
+      await controller.setLooping(true);
+      await controller.setVolume(0.0);
+      await controller.play();
+
+      if (mounted) {
+        setState(() {
+          _isInitialized = true;
+        });
+      }
+    } catch (_) {
+      // Fallback seamlessly if video cannot be initialized in test/unsupported environment
+    }
+  }
+
+  @override
+  void dispose() {
+    _controller?.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -99,34 +152,61 @@ class _LoadingView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Container(
-              width: 72,
-              height: 72,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                color: AppColors.surface,
-                border: Border.all(
-                  color: AppColors.accentGreen.withValues(alpha: 0.3),
-                  width: 2,
-                ),
-              ),
-              child: const Padding(
-                padding: EdgeInsets.all(18.0),
-                child: CircularProgressIndicator(
-                  strokeWidth: 3,
-                  valueColor:
-                      AlwaysStoppedAnimation<Color>(AppColors.accentGreen),
-                ),
-              ),
+            // Animated Logo Video container
+            SizedBox(
+              width: 180,
+              height: 180,
+              child: _isInitialized && _controller != null
+                  ? ClipRRect(
+                      borderRadius: BorderRadius.circular(32),
+                      child: FittedBox(
+                        fit: BoxFit.contain,
+                        child: SizedBox(
+                          width: _controller!.value.size.width > 0
+                              ? _controller!.value.size.width
+                              : 180,
+                          height: _controller!.value.size.height > 0
+                              ? _controller!.value.size.height
+                              : 180,
+                          child: VideoPlayer(_controller!),
+                        ),
+                      ),
+                    )
+                  : Image.asset(
+                      'data/icon.png',
+                      width: 130,
+                      height: 130,
+                      fit: BoxFit.contain,
+                      errorBuilder: (context, error, stackTrace) => Container(
+                        width: 90,
+                        height: 90,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: AppColors.surfaceElevated,
+                          border: Border.all(
+                            color: AppColors.accentGreen.withValues(alpha: 0.3),
+                            width: 2,
+                          ),
+                        ),
+                        child: const Center(
+                          child: CircularProgressIndicator(
+                            strokeWidth: 3,
+                            valueColor: AlwaysStoppedAnimation<Color>(
+                              AppColors.accentGreen,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
             ),
             const SizedBox(height: 24),
             const Text(
               'FIFAWY',
               style: TextStyle(
                 color: AppColors.textPrimary,
-                fontSize: 22,
+                fontSize: 24,
                 fontWeight: FontWeight.w900,
-                letterSpacing: 2.0,
+                letterSpacing: 2.5,
               ),
             ),
             const SizedBox(height: 8),
@@ -135,6 +215,7 @@ class _LoadingView extends StatelessWidget {
               style: TextStyle(
                 color: AppColors.textSecondary,
                 fontSize: 13,
+                letterSpacing: 0.5,
               ),
             ),
           ],
