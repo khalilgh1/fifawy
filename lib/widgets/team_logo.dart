@@ -3,6 +3,15 @@ import 'package:flutter_svg/flutter_svg.dart';
 import '../models/team.dart';
 import '../theme/app_theme.dart';
 
+// Pre-built shadow to avoid re-allocating on every build
+const _logoShadow = [
+  BoxShadow(
+    color: Color(0x59000000), // ~35% black
+    blurRadius: 12,
+    offset: Offset(0, 4),
+  ),
+];
+
 class TeamLogo extends StatelessWidget {
   final Team team;
   final double size;
@@ -17,30 +26,27 @@ class TeamLogo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       width: size,
       height: size,
-      decoration: BoxDecoration(
-        shape: BoxShape.circle,
-        color: AppColors.surfaceElevated.withValues(alpha: 0.5),
-        boxShadow: showShadow
-            ? [
-                BoxShadow(
-                  color: Colors.black.withValues(alpha: 0.35),
-                  blurRadius: 12,
-                  offset: const Offset(0, 4),
-                ),
-              ]
-            : null,
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          shape: BoxShape.circle,
+          // Use a constant-ish alpha value to avoid Color.withValues() each build
+          color: const Color(0xFF1B202A).withValues(alpha: 0.5),
+          boxShadow: showShadow ? _logoShadow : null,
+        ),
+        child: Padding(
+          padding: EdgeInsets.all(size * 0.1),
+          child: _buildLogoImage(),
+        ),
       ),
-      padding: EdgeInsets.all(size * 0.1),
-      child: _buildLogoImage(),
     );
   }
 
   Widget _buildLogoImage() {
     if (!team.hasLogo || team.assetPath.isEmpty) {
-      return _buildFallbackBadge();
+      return _TeamInitialsBadge(name: team.name, size: size);
     }
 
     if (team.isSvg) {
@@ -49,7 +55,7 @@ class TeamLogo extends StatelessWidget {
         width: size * 0.8,
         height: size * 0.8,
         fit: BoxFit.contain,
-        placeholderBuilder: (context) => _buildFallbackBadge(),
+        placeholderBuilder: (_) => _TeamInitialsBadge(name: team.name, size: size),
       );
     }
 
@@ -58,13 +64,25 @@ class TeamLogo extends StatelessWidget {
       width: size * 0.8,
       height: size * 0.8,
       fit: BoxFit.contain,
-      errorBuilder: (context, error, stackTrace) => _buildFallbackBadge(),
+      // cacheWidth/cacheHeight reduces memory usage for logos displayed at 78px
+      cacheWidth: (size * 2).toInt(), // 2x for high-DPI
+      errorBuilder: (context, error, stackTrace) =>
+          _TeamInitialsBadge(name: team.name, size: size),
     );
   }
+}
 
-  Widget _buildFallbackBadge() {
-    final initials = team.name.isNotEmpty
-        ? team.name
+/// Separated into its own stateless widget so Flutter can cache the element.
+class _TeamInitialsBadge extends StatelessWidget {
+  final String name;
+  final double size;
+
+  const _TeamInitialsBadge({required this.name, required this.size});
+
+  @override
+  Widget build(BuildContext context) {
+    final initials = name.isNotEmpty
+        ? name
             .split(' ')
             .take(2)
             .map((w) => w.isNotEmpty ? w[0] : '')
@@ -72,20 +90,16 @@ class TeamLogo extends StatelessWidget {
             .toUpperCase()
         : 'FC';
 
-    return Center(
-      child: Container(
-        decoration: BoxDecoration(
-          shape: BoxShape.circle,
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [
-              AppColors.surfaceElevated,
-              AppColors.surfaceBorder,
-            ],
-          ),
+    return DecoratedBox(
+      decoration: const BoxDecoration(
+        shape: BoxShape.circle,
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [AppColors.surfaceElevated, AppColors.surfaceBorder],
         ),
-        alignment: Alignment.center,
+      ),
+      child: Center(
         child: Text(
           initials,
           style: TextStyle(

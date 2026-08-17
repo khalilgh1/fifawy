@@ -2,6 +2,22 @@ import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import '../theme/app_theme.dart';
 
+// Pre-built decoration — avoids BoxDecoration allocation on every build
+const _pitchDecoration = BoxDecoration(
+  color: AppColors.surface,
+  borderRadius: BorderRadius.all(Radius.circular(24)),
+  border: Border.fromBorderSide(
+    BorderSide(color: AppColors.surfaceBorder, width: 1.2),
+  ),
+  boxShadow: [
+    BoxShadow(
+      color: Color(0x4D000000), // ~30% black
+      blurRadius: 16,
+      offset: Offset(0, 6),
+    ),
+  ],
+);
+
 class PitchPlaceholder extends StatefulWidget {
   final double height;
   final String videoAsset;
@@ -61,52 +77,40 @@ class _PitchPlaceholderState extends State<PitchPlaceholder> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       height: widget.height,
       width: double.infinity,
-      decoration: BoxDecoration(
-        color: AppColors.surface,
-        borderRadius: BorderRadius.circular(24),
-        border: Border.all(
-          color: AppColors.surfaceBorder,
-          width: 1.2,
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withValues(alpha: 0.3),
-            blurRadius: 16,
-            offset: const Offset(0, 6),
-          ),
-        ],
-      ),
-      child: ClipRRect(
-        borderRadius: BorderRadius.circular(23),
-        child: Stack(
-          alignment: Alignment.center,
-          fit: StackFit.expand,
-          children: [
-            if (_isInitialized && _controller != null && !_hasError)
-              SizedBox.expand(
-                child: FittedBox(
-                  fit: BoxFit.cover,
-                  child: SizedBox(
-                    width: _controller!.value.size.width > 0
-                        ? _controller!.value.size.width
-                        : 16,
-                    height: _controller!.value.size.height > 0
-                        ? _controller!.value.size.height
-                        : 9,
-                    child: VideoPlayer(_controller!),
+      child: DecoratedBox(
+        decoration: _pitchDecoration,
+        child: ClipRRect(
+          borderRadius: const BorderRadius.all(Radius.circular(23)),
+          child: Stack(
+            alignment: Alignment.center,
+            fit: StackFit.expand,
+            children: [
+              if (_isInitialized && _controller != null && !_hasError)
+                SizedBox.expand(
+                  child: FittedBox(
+                    fit: BoxFit.cover,
+                    child: SizedBox(
+                      width: _controller!.value.size.width > 0
+                          ? _controller!.value.size.width
+                          : 16,
+                      height: _controller!.value.size.height > 0
+                          ? _controller!.value.size.height
+                          : 9,
+                      child: VideoPlayer(_controller!),
+                    ),
                   ),
+                )
+              else
+                // Fallback pitch custom painter if video is initializing or fails
+                CustomPaint(
+                  size: Size.infinite,
+                  painter: _PitchPainter(),
                 ),
-              )
-            else
-              // Fallback pitch custom painter if video is initializing or fails
-              CustomPaint(
-                size: Size.infinite,
-                painter: _PitchPainter(),
-              ),
-          ],
+            ],
+          ),
         ),
       ),
     );

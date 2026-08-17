@@ -7,6 +7,28 @@ import '../widgets/team_card.dart';
 import '../widgets/filter_bottom_sheet.dart';
 import 'empty_matchup_view.dart';
 
+// Pre-built gradient decorations for the VS divider lines
+const _vsLeftGradient = BoxDecoration(
+  gradient: LinearGradient(
+    colors: [Colors.transparent, AppColors.surfaceBorder],
+    stops: [0.0, 1.0],
+  ),
+);
+
+const _vsRightGradient = BoxDecoration(
+  gradient: LinearGradient(
+    colors: [AppColors.surfaceBorder, Colors.transparent],
+    stops: [0.0, 1.0],
+  ),
+);
+
+const _vsStyle = TextStyle(
+  color: Colors.white,
+  fontSize: 34,
+  fontWeight: FontWeight.w900,
+  letterSpacing: 2.0,
+);
+
 class MatchupScreen extends StatefulWidget {
   final Matchup? initialMatchup;
   final FilterCriteria initialCriteria;
@@ -36,12 +58,15 @@ class _MatchupScreenState extends State<MatchupScreen>
   late Animation<double> _fadeAnim;
   late Animation<Offset> _slideHomeAnim;
   late Animation<Offset> _slideAwayAnim;
+  // Cached derived field — recomputed only when criteria changes
+  String? _currentCompName;
 
   @override
   void initState() {
     super.initState();
     _criteria = widget.initialCriteria;
     _matchup = widget.initialMatchup;
+    _updateCompName();
 
     _animController = AnimationController(
       vsync: this,
@@ -70,6 +95,15 @@ class _MatchupScreenState extends State<MatchupScreen>
     ));
 
     _animController.forward();
+  }
+
+  void _updateCompName() {
+    _currentCompName = _criteria.competitionId != null
+        ? widget.competitions
+            .where((c) => c.id == _criteria.competitionId)
+            .map((c) => c.name)
+            .firstOrNull
+        : null;
   }
 
   @override
@@ -103,23 +137,26 @@ class _MatchupScreenState extends State<MatchupScreen>
   }
 
   void _openFilterSheet() async {
-    final newCriteria = await FilterBottomSheet.show(
+    // Note: onApply fires while the sheet is still open (preview);
+    // the await result fires when the sheet is closed. We only reroll once.
+    FilterCriteria? appliedInsideSheet;
+
+    await FilterBottomSheet.show(
       context: context,
       initialCriteria: _criteria,
       competitions: widget.competitions,
       eligibleCount: widget.getEligibleCount(_criteria),
       onApply: (updated) {
+        appliedInsideSheet = updated;
         setState(() {
           _criteria = updated;
+          _updateCompName();
         });
-        _reroll();
       },
     );
 
-    if (newCriteria != null && mounted) {
-      setState(() {
-        _criteria = newCriteria;
-      });
+    // Only reroll once (using the latest criteria set inside the sheet, if any)
+    if (mounted && appliedInsideSheet != null) {
       _reroll();
     }
   }
@@ -133,6 +170,7 @@ class _MatchupScreenState extends State<MatchupScreen>
       } else if (key == 'stars') {
         _criteria = _criteria.copyWith(minStars: 0.0);
       }
+      _updateCompName();
     });
     _reroll();
   }
@@ -140,16 +178,9 @@ class _MatchupScreenState extends State<MatchupScreen>
   void _resetFilters() {
     setState(() {
       _criteria = FilterCriteria.allTeams;
+      _updateCompName();
     });
     _reroll();
-  }
-
-  String? get _currentCompName {
-    if (_criteria.competitionId == null) return null;
-    return widget.competitions
-        .where((c) => c.id == _criteria.competitionId)
-        .map((c) => c.name)
-        .firstOrNull;
   }
 
   @override
@@ -224,45 +255,23 @@ class _MatchupScreenState extends State<MatchupScreen>
                   const SizedBox(height: 20),
 
                   // VS Divider
-                  Row(
+                  const Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Expanded(
-                        child: Container(
+                        child: SizedBox(
                           height: 1,
-                          decoration: BoxDecoration(
-                            gradient: LinearGradient(
-                              colors: [
-                                Colors.transparent,
-                                AppColors.surfaceBorder.withValues(alpha: 0.8),
-                              ],
-                            ),
-                          ),
+                          child: DecoratedBox(decoration: _vsLeftGradient),
                         ),
                       ),
                       Padding(
-                        padding: const EdgeInsets.symmetric(horizontal: 16),
-                        child: Text(
-                          'VS',
-                          style: TextStyle(
-                            color: Colors.white.withValues(alpha: 0.95),
-                            fontSize: 34,
-                            fontWeight: FontWeight.w900,
-                            letterSpacing: 2.0,
-                          ),
-                        ),
+                        padding: EdgeInsets.symmetric(horizontal: 16),
+                        child: Text('VS', style: _vsStyle),
                       ),
                       Expanded(
-                        child: Container(
+                        child: SizedBox(
                           height: 1,
-                          decoration: BoxDecoration(
-                            gradient: LinearGradient(
-                              colors: [
-                                AppColors.surfaceBorder.withValues(alpha: 0.8),
-                                Colors.transparent,
-                              ],
-                            ),
-                          ),
+                          child: DecoratedBox(decoration: _vsRightGradient),
                         ),
                       ),
                     ],

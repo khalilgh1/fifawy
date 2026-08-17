@@ -5,13 +5,16 @@ import '../models/competition.dart';
 import '../models/filter_criteria.dart';
 
 class TeamDataService {
-  List<Team> _teams = [];
-  List<Competition> _competitions = [];
+  List<Team> _teams = const [];
+  List<Competition> _competitions = const [];
+  // Index for O(1) competition lookup by canonical id
+  Map<String, Competition> _competitionById = const {};
   bool _isLoaded = false;
   String? _loadError;
 
-  List<Team> get teams => List.unmodifiable(_teams);
-  List<Competition> get competitions => List.unmodifiable(_competitions);
+  // Expose the same immutable references each time (no List.unmodifiable wrapping on every call)
+  List<Team> get teams => _teams;
+  List<Competition> get competitions => _competitions;
   bool get isLoaded => _isLoaded;
   String? get loadError => _loadError;
 
@@ -32,7 +35,7 @@ class TeamDataService {
         }
       }
 
-      _teams = loadedTeams;
+      _teams = List.unmodifiable(loadedTeams);
       _deriveCompetitions();
       _isLoaded = true;
       _loadError = null;
@@ -80,35 +83,46 @@ class TeamDataService {
       ));
     }
 
-    // Sort: major European/World competitions first, then alphabetical
+    // Sort: competitions with more teams first, then alphabetical
     list.sort((a, b) {
-      // Competitions with more teams first
       if (b.teamCount != a.teamCount) {
         return b.teamCount.compareTo(a.teamCount);
       }
       return a.name.compareTo(b.name);
     });
 
-    _competitions = list;
+    _competitions = List.unmodifiable(list);
+
+    // Build O(1) lookup index
+    final index = <String, Competition>{};
+    for (final comp in _competitions) {
+      index[comp.id] = comp;
+    }
+    _competitionById = Map.unmodifiable(index);
   }
 
-  /// Filters the teams according to criteria
+  /// Filters the teams according to criteria.
+  /// Caches the last result to avoid re-filtering on repeated identical calls.
+  FilterCriteria? _lastCriteria;
+  List<Team> _lastResult = const [];
+
   List<Team> getEligibleTeams(FilterCriteria criteria) {
-    if (!_isLoaded) return [];
+    if (!_isLoaded) return const [];
+
+    // Cache hit — same criteria, return previous result
+    if (_lastCriteria == criteria) return _lastResult;
 
     Competition? selectedComp;
     if (criteria.competitionId != null && criteria.competitionId!.isNotEmpty) {
-      selectedComp = _competitions.firstWhere(
-        (c) => c.id == criteria.competitionId,
-        orElse: () => Competition(
-          id: criteria.competitionId!,
-          name: criteria.competitionId!,
-          rawKeys: [criteria.competitionId!],
-        ),
-      );
+      selectedComp = _competitionById[criteria.competitionId] ??
+          Competition(
+            id: criteria.competitionId!,
+            name: criteria.competitionId!,
+            rawKeys: [criteria.competitionId!],
+          );
     }
 
-    return _teams.where((team) {
+    final result = _teams.where((team) {
       // 1. Team Type
       if (criteria.teamType == TeamTypeFilter.clubs && !team.isClub) {
         return false;
@@ -118,28 +132,23 @@ class TeamDataService {
       }
 
       // 2. Competition
-      if (selectedComp != null) {
-        if (!selectedComp.matches(team.competitions)) {
-          return false;
-        }
+      if (selectedComp != null && !selectedComp.matches(team.competitions)) {
+        return false;
       }
 
       // 3. Minimum Stars rating
-      if (criteria.minStars > 0.0) {
-        if (team.stars < criteria.minStars) {
-          return false;
-        }
+      if (criteria.minStars > 0.0 && team.stars < criteria.minStars) {
+        return false;
       }
 
       return true;
-    }).toList();
+    }).toList(growable: false);
+
+    _lastCriteria = criteria;
+    _lastResult = result;
+    return result;
   }
 
-  /// Find competition by canonical id
-  Competition? getCompetitionById(String id) {
-    for (final comp in _competitions) {
-      if (comp.id == id) return comp;
-    }
-    return null;
-  }
+  /// O(1) competition lookup via pre-built index
+  Competition? getCompetitionById(String id) => _competitionById[id];
 }
