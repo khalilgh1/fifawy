@@ -4,38 +4,24 @@
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <b>1. Splash / Loading Screen</b><br/><br/>
-        <img src="screenshots/IMG_20260818_124653.jpg" alt="Splash & Loading Screen" width="100%"/>
-      </td>
-      <td align="center" width="20%">
-        <b>2. Main Screen</b><br/><br/>
-        <img src="screenshots/Screenshot_2026_08_18_12_44_21_46_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Main Screen" width="100%"/>
-      </td>
-      <td align="center" width="20%">
-        <b>3. Filter Bottom Sheet</b><br/><br/>
-        <img src="screenshots/Screenshot_2026_08_18_12_44_47_94_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Filter Bottom Sheet" width="100%"/>
-      </td>
-      <td align="center" width="20%">
-        <b>4. Matchup Result</b><br/><br/>
-        <img src="screenshots/Screenshot_2026_08_18_12_45_24_55_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Matchup Result" width="100%"/>
-      </td>
-      <td align="center" width="20%">
-        <b>5. App Information</b><br/><br/>
-        <img src="screenshots/Screenshot_2026_08_18_12_46_12_79_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="App Info Dialog" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="screenshots/IMG_20260818_124653.jpg" alt="Splash Screen" width="31%"/>
+  <img src="screenshots/Screenshot_2026_08_18_12_44_21_46_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Main Screen" width="31%"/>
+  <img src="screenshots/Screenshot_2026_08_18_12_44_47_94_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Filters" width="31%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="screenshots/Screenshot_2026_08_18_12_45_24_55_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="Matchup Result" width="31%"/>
+  <img src="screenshots/Screenshot_2026_08_18_12_46_12_79_1ca03f406ff0432d7b7a5c906f3cc311.jpg" alt="App Info" width="31%"/>
 </div>
 
 ---
 
-## ⚽ Features & How It Works
+## Features & How It Works
 
 - **Instant 1v1 Matchup Generation**: With a single tap, generate a balanced home vs. away match without endless scrolling through team selection menus.
 - **One-Tap Quick Play Presets**:
@@ -52,32 +38,51 @@
   - Displays high-resolution team logos, official club names, star ratings, league tags, and home/away badges.
   - **Reroll**: Spin again instantly with the active filter parameters.
   - **Quick Adjust**: Modify filters directly from the matchup screen.
-- **App Info & Statistics**: Tap the info icon in the top bar to view total loaded teams, competitions count, and version info.
+- **App Info & Statistics**: View total loaded teams, competitions count, and dataset status.
 
 ---
 
-## 🛠️ Technical Details & Data Architecture
+## Technical Details & Team Dataset
 
-- **Framework**: Built with **Flutter 3.x** and **Dart 3.x** using Material 3 design principles.
-- **Offline-First Storage**:
-  - Bundled with a comprehensive local dataset (`data/teams_offline.json`) containing **450+ teams** and **30+ competitions**.
-  - Fully functional with zero internet connection required.
-- **Assets & Media**:
-  - High-performance asset loading for SVG and PNG club crests (`data/logos/`).
-  - Seamless loop background video player (`video_player`) powering the dynamic football pitch animation on the home screen.
-- **Theme & Design System**:
-  - Immersive dark UI styled with an EA FC neon-green accent aesthetic (`AppColors.accentGreen` `#38EF58`, background `#070706`).
-  - Modern typography using `google_fonts` (**Outfit**).
-  - Native adaptive launch splash integration configured across both legacy and Android 12+ Splash APIs.
-- **Matching Algorithm**:
-  - Fast O(N) pool filtering with constraint verification (ensures distinct home and away teams and prevents immediate consecutive duplicate matchups).
+### Curated FC 26 Dataset
+The application is powered by an offline dataset (`data/teams_offline.json`) updated for EA SPORTS FC 26:
+- **450+ teams** across major domestic leagues and international tournaments.
+- **30+ competitions** including domestic divisions (Premier League, La Liga, Serie A, Bundesliga, etc.) and global tournaments (UEFA Champions League, UEFA Europa League, FIFA World Cup, UEFA Euro).
+- **High-Resolution Crests**: Dedicated local club and nation badge assets stored in `data/logos/`.
+- **Zero-Latency Offline Execution**: Team rosters, star ratings, and competition mapping are bundled locally in the app with no external network dependencies or API latency.
+
+### Data Format
+Each entry in `teams_offline.json` follows a structured schema:
+
+```json
+{
+  "id": "real_madrid",
+  "name": "Real Madrid",
+  "type": "club",
+  "country": "Spain",
+  "competitions": [
+    "laliga_ea_sports",
+    "uefa_champions_league"
+  ],
+  "stars": 5.0,
+  "logo": "logos/real_madrid.png"
+}
+```
+
+- **`id`**: Unique normalized string identifier.
+- **`name`**: Official team display name.
+- **`type`**: `"club"` or `"national"`.
+- **`country`**: Team nationality or country of origin.
+- **`competitions`**: Array of linked league and tournament identifiers.
+- **`stars`**: Official half-star precision rating (from 0.5 to 5.0).
+- **`logo`**: Relative path to the local asset emblem.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (3.13.0 or higher)
+- Flutter SDK (3.13.0 or higher)
 - Android Studio / VS Code with Flutter extension
 - Connected Android device or Emulator
 
