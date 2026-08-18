@@ -167,7 +167,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         actions: [
           IconButton(
-            icon: const Icon(Icons.settings_outlined, size: 22),
+            icon: const Icon(Icons.info_outline_rounded, size: 22),
             onPressed: _showInfoDialog,
           ),
           const SizedBox(width: 8),

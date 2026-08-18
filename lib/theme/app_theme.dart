@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class AppColors {
   // Backgrounds
-  static const Color background = Color(0xFF090B0E);
+  static const Color background = Color(0xFF070706);
   static const Color surface = Color(0xFF14181F);
   static const Color surfaceElevated = Color(0xFF1B202A);
   static const Color surfaceBorder = Color(0xFF262E3B);

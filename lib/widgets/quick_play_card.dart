@@ -29,7 +29,7 @@ class QuickPlayCard extends StatelessWidget {
         highlightColor: AppColors.accentGreen.withValues(alpha: 0.08),
         child: AnimatedContainer(
           duration: const Duration(milliseconds: 200),
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 14),
           decoration: BoxDecoration(
             color: isSelected ? AppColors.surfaceElevated : AppColors.surface,
             borderRadius: BorderRadius.circular(20),
@@ -54,7 +54,7 @@ class QuickPlayCard extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Container(
-                padding: const EdgeInsets.all(8),
+                padding: const EdgeInsets.all(7),
                 decoration: BoxDecoration(
                   color: isSelected
                       ? AppColors.accentGreen.withValues(alpha: 0.2)
@@ -63,22 +63,25 @@ class QuickPlayCard extends StatelessWidget {
                 ),
                 child: Icon(
                   icon,
-                  size: 24,
+                  size: 22,
                   color: isSelected
                       ? AppColors.accentGreen
                       : AppColors.accentGreenLight,
                 ),
               ),
-              const SizedBox(height: 12),
-              Text(
-                title,
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-                style: TextStyle(
-                  color: isSelected ? Colors.white : AppColors.textPrimary,
-                  fontSize: 14,
-                  fontWeight: FontWeight.w800,
-                  letterSpacing: 0.5,
+              const SizedBox(height: 8),
+              FittedBox(
+                fit: BoxFit.scaleDown,
+                alignment: Alignment.centerLeft,
+                child: Text(
+                  title,
+                  maxLines: 1,
+                  style: TextStyle(
+                    color: isSelected ? Colors.white : AppColors.textPrimary,
+                    fontSize: 13,
+                    fontWeight: FontWeight.w800,
+                    letterSpacing: 0.5,
+                  ),
                 ),
               ),
             ],

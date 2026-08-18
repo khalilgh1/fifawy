@@ -102,7 +102,7 @@ class LoadingAnimationView extends StatefulWidget {
 
   const LoadingAnimationView({
     super.key,
-    this.videoAsset = 'data/loading.mp4',
+    this.videoAsset = 'data/loading.mov',
   });
 
   @override
@@ -173,7 +173,7 @@ class _LoadingAnimationViewState extends State<LoadingAnimationView> {
                       ),
                     )
                   : Image.asset(
-                      'data/icon.png',
+                      'data/icon_nobg.png',
                       width: 130,
                       height: 130,
                       fit: BoxFit.contain,
