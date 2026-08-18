@@ -2,6 +2,14 @@
 
 **Fifawy** is a sleek, modern Flutter application built for EA SPORTS FC 26 players to quickly generate fair, customizable, and random 1v1 matchups for competitive kick-off and couch gaming sessions.
 
+<div align="center">
+  <br/>
+  <a href="https://drive.google.com/file/d/1WzEx9Q8TvtNa1mKHix9nmvT-NgVhvvXs/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20APK-Google%20Drive-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <br/><br/>
+</div>
+
 ---
 
 ## Screenshots
@@ -81,7 +89,11 @@ Each entry in `teams_offline.json` follows a structured schema:
 
 ## Getting Started
 
-### Prerequisites
+### Download APK
+You can directly download and install the latest Android build:
+- [Download Fifawy APK (Google Drive)](https://drive.google.com/file/d/1WzEx9Q8TvtNa1mKHix9nmvT-NgVhvvXs/view?usp=sharing)
+
+### Prerequisites (For Development)
 - Flutter SDK (3.13.0 or higher)
 - Android Studio / VS Code with Flutter extension
 - Connected Android device or Emulator
